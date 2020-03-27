@@ -2,7 +2,7 @@
 title: Schedule
 layout: "page"
 icon: fa-calendar-alt
-order: 3
+order: 2
 ---
 
 |Speaker | Title | Date |
