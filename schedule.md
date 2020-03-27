@@ -1,7 +1,7 @@
 ---
 title: Schedule
 layout: "page"
-icon: fa-book
+icon: fa-calendar-alt
 order: 3
 ---
 
