@@ -1,4 +1,9 @@
 source "https://rubygems.org"
 
-gem 'github-pages', group: :jekyll_plugins
-gem 'jekyll-theme-prologue'
+gem "jekyll-theme-prologue"
+
+# If you have any plugins, put them here!
+group :jekyll_plugins do
+  gem "github-pages"
+  gem "jekyll-sitemap"
+end
