@@ -5,8 +5,6 @@ icon: fa-book
 order: 3
 ---
 
-Current list of speakers. 
-
 |Speaker | Title | Date |
 |:-------|:------|:-----|
 | Lynn Wilson | Solar Wind | May 4, 2020 |
