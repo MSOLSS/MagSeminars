@@ -35,8 +35,8 @@ subtitle:
 description: >- # this means to ignore newlines until "baseurl:"
   This is a simple site for the schedule and links to the 
   weekly Magnetosphere Seminar Series.
-author: Kyle Murphy
-email: kylemurphy.spacephys@gmail.com
+author: Magnetosphere Seminars
+email: magnetosphere.seminars@gmail.com
 avatar: /assets/images/logo4.png
 
 # You'll want to customize url and baseurl for your own site:
