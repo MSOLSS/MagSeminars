@@ -8,8 +8,8 @@ order: 2
 | Date |Speaker | Title | Institution |
 |:-----|:-------|:------|:------------|
 | May 4, 2020 | Lynn Wilson | Solar Wind | GSFC |
-| TBD | Heli Hietala | The Bowshock and Foreshock | University of Turku |
-| TBD | Ferdinand Plaschke | The Magnetosheath | SRI, Graz |
+| May 11, 2020 | TBD | The Bowshock and Foreshock | University of Turku |
+| May 18, 2020 | TBD | The Magnetosheath | SRI, Graz |
 | June 1, 2020 | Yin Zou | The Magnetopause | BU |
 | June 8, 2020 | Stephen Fuselier | Oxygen in the Dayside Magnetosphere | SwRI |
 | June 15, 2020 | Benoit Lavraud | The Cusps | IRAP |
