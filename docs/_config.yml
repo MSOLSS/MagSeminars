@@ -37,7 +37,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   weekly Magnetosphere Seminar Series.
 author: Kyle Murphy
 email: kylemurphy.spacephys@gmail.com
-avatar: assets/images/logo2.png
+avatar: 
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/MagSeminars" # the subpath of your site, e.g. /blog
