@@ -7,6 +7,7 @@ order: 2
 
 | Date |Speaker | Title | Institution |
 |:-----|:-------|:------|:------------|
+| April 27, 2020 | Joe Borovsky | Space Science | GSFC |
 | May 4, 2020 | Lynn Wilson | Solar Wind | GSFC |
 | May 11, 2020 | TBD | The Bowshock and Foreshock | University of Turku |
 | May 18, 2020 | Ferdinand Plaschke | The Magnetosheath | SRI, Graz |
