@@ -56,6 +56,9 @@ pinterest_url:
 slack_url:
 dribbble_url:
 
+#Zoom Meeting URL
+zoom_url: https://umd.zoom.us/j/872058512
+
 # Google Analytics Tracking ID goes here:
 google_analytics:
 
