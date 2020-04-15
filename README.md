@@ -4,7 +4,7 @@ The Magnetosphere Online Seminar Series is held every Monday at noon.
 
 The [website](https://msolss.github.io/MagSeminars/) has information on schedule, contacting us, and joining the meeting.
 
-The website is a "blog" type website: [Jekyll-theme-prologue Demo](https://chrisbobbe.github.io/jekyll-theme-prologue/)). 
+The website is a "blog" type website: [Jekyll-theme-prologue Demo](https://chrisbobbe.github.io/jekyll-theme-prologue/). 
 
 Blog posts are held for individual speakers and can be added by creating a Marddown file (.md) in the _posts folder following the naming format YYYY-MM-DD-Title-of-post.md. These posts will be automatically added to the website.
 
