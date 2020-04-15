@@ -24,7 +24,7 @@ Tentative is *italic*.
 | May 11, 2020 | **Heli Hietala**  | The Bowshock and Foreshock | Imperial College London |
 | May 18, 2020 | **Ferdinand Plaschke** | The Magnetosheath | SRI, Graz |
 | May 25, 2020 | Holiday |  |  |
-| June 1, 2020 | **Ying Zou** | The Magnetopause | BU |
+| June 1, 2020 | **Ying Zou** | The Magnetopause | U. A. Huntsville |
 | June 8, 2020 | **Stephen Fuselier** | Oxygen in the Dayside Magnetosphere | SwRI |
 | 10 AM EST June 15, 2020 | **Benoit Lavraud** | The Cusps | IRAP |
 | June 22, 2020 | **Takuma   Nakamura** | The Low Latitude Boundary Layer | SRI, Graz |
@@ -32,11 +32,11 @@ Tentative is *italic*.
 | July 6, 2020 | **Eric Grimes** | pySPEDAS and SPEDAS | UCLA |
 | July 13, 2020 | **Hermann Lühr** | Field Aligned Currents | GFZ |
 | July 20, 2020 | *Andrew Yau* | Ionospheric Outflow | UofC |
-| July 27, 2020 | *Robin Milan* | Precipitation | Dartmout |
+| July 27, 2020 | *Robin Millan* | Precipitation | Dartmouth |
 | Aug 3, 2020 | *Clare Watt* | Aurora | U Reading |
 | Aug 10, 2020 | **Eric Donovan** | Proton Aurora | UofC |
 | Aug 17, 2020 | **Liz McDonald** | STEVE | GSFC |
-| Aug 24, 2020 | **Christine Gabrielse** | Magnetotail Convection and Substorms | Aerosapce |
+| Aug 24, 2020 | **Christine Gabrielse** | Magnetotail Convection and Substorms | Aerospace |
 | Aug 31, 2020 | *TBD* | TBD | TBD |
 | Sept 7, 2020 | *TBD* | TBD | TBD |
 | Sept 14, 2020 | **Labor Day** | TBD | TBD |
@@ -55,3 +55,33 @@ Tentative is *italic*.
 | Dec 14, 2020 | *TBD* | TBD | TBD |
 | Dec 21, 2020 | **Christmas Week** | TBD | TBD |
 | Dec 28, 2020 | **New Years Week** | TBD | TBD |
+
+## Future Speakers and Topics
+
+### Magnetopause Month
+- Jonathan Eastwood – reconnection, already volunteered
+- Tai Phan -  reconnection in sheath and at magnetopause
+- Andrey Samsonov – global interactions from simulations (not reconnection)
+- Sarah Vines ion acceleration
+- Steve Millan global interaction based on expanding contracting polar cap
+
+
+### Generic
+- Magnetotail Joachim Birn
+- Northward IMF interactions  Robert Fear
+- Ring current Raluca Ilie
+- Radiation Belts  Xinlin Li, Wiechau Tu
+- Plasmasphere Fabien Darrouzet (or Jerry Goldstein)
+- Ionospheric ions in the magnetosphere Elena Kronberg
+- Global MHD simulations Joachim Raeder, Mary Hudson
+- Kinetic Modeling Stefano Markidis
+- Data Modeling Nikolai Tsyganenko (or Misha Sitnov)
+- Multiopoint measurements Malcolm Dunlop
+- Microscale phenoman  Jim Burch
+- Imaging  Pontus Brandt
+- Ground ASI  Steven Mende
+- Ground radar Ian McCrea (or someone from US superdarn)
+- Challenges for modellers  Gabor Toth
+- Unsolved Problems  Michael Denton
+- The future.  Michael Wiltberger
+
