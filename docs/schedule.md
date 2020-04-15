@@ -12,7 +12,7 @@ order: 2
 | May 11, 2020 | Heli Hietala  | The Bowshock and Foreshock | Imperial College London |
 | May 18, 2020 | Ferdinand Plaschke | The Magnetosheath | SRI, Graz |
 | May 25, 2020 | Holiday |  |  |
-| June 1, 2020 | Ying Zou | The Magnetopause | BU |
+| June 1, 2020 | Ying Zou | The Magnetopause | U. A. Huntsville |
 | June 8, 2020 | Stephen Fuselier | Oxygen in the Dayside Magnetosphere | SwRI |
 | 10 AM EST June 15, 2020 | Benoit Lavraud | The Cusps | IRAP |
 | June 22, 2020 | Takuma   Nakamura | The Low Latitude Boundary Layer | SRI, Graz |
