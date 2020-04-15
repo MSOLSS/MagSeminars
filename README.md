@@ -38,8 +38,8 @@ Tentative is *italic*.
 | Aug 17, 2020 | **Liz McDonald** | STEVE | GSFC |
 | Aug 24, 2020 | **Christine Gabrielse** | Magnetotail Convection and Substorms | Aerospace |
 | Aug 31, 2020 | *TBD* | TBD | TBD |
-| Sept 7, 2020 | *TBD* | TBD | TBD |
-| Sept 14, 2020 | **Labor Day** | TBD | TBD |
+| Sept 7, 2020 | **Labor Day** | TBD | TBD |
+| Sept 14, 2020 | *TBD* | TBD | TBD |
 | Sept 21, 2020 | *TBD* | TBD | TBD |
 | Sept 28, 2020 | *TBD* | TBD | TBD |
 | Oct 5, 2020 | *TBD* | TBD | TBD |
