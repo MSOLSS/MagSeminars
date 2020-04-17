@@ -33,7 +33,7 @@ Tentative is *italic*.
 | July 13, 2020 | **Hermann Lühr** | Field Aligned Currents | GFZ |
 | July 20, 2020 | **Andrew Yau** | Ionospheric Outflow | UofC |
 | July 27, 2020 | *Robin Millan* | Precipitation | Dartmouth |
-| Aug 3, 2020 | *Clare Watt* | Aurora | U Reading |
+| Aug 3, 2020 | **Clare Watt** | Aurora | U Reading |
 | Aug 10, 2020 | **Eric Donovan** | Proton Aurora | UofC |
 | Aug 17, 2020 | **Liz McDonald** | STEVE | GSFC |
 | Aug 24, 2020 | **Christine Gabrielse** | Magnetotail Convection and Substorms | Aerospace |
