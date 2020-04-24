@@ -66,6 +66,24 @@ Tentative is *italic*.
 - Sarah Vines - ion acceleration
 - Steve Milan - global interaction based on expanding contracting polar cap
 
+### ULF Wave Month (or maybe just waves)
+- Review Talk hour long, week 1
+- Weeks 2-4, science talks, 2 half hour talks per week?
+
+### Instrument Month
+- Magnetometers (week 1)
+- Electric fields (week 1)
+- Imagers (break down into various imagers? 2 talks week 2, 2 talks week 3)
+- Particle instruments (break down into various types 2 talks week 4)
+- Riometers, VLF recieviers, Balloons.
+
+### Modeling Month
+- MHD
+- Kenetic Simulations
+- PIC
+- Forecasting
+- Data Assimilation
+
 
 ### Generic
 - Magnetotail Joachim Birn
