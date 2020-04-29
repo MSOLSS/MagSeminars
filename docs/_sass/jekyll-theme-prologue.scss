@@ -128,7 +128,7 @@
 
 	a {
 		text-decoration: none;
-		font-weight: 350;
+		font-weight: 375;
 		color: #666;
 		border-bottom: dotted 2px rgba(128, 128, 128, 0.5);
 		@include vendor('transition', ('color 0.35s ease-in-out', 'border-bottom-color 0.35s ease-in-out'));
