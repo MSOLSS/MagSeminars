@@ -9,7 +9,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 
 | Date |Speaker | Title/Topic | Institution |
 |:-----|:-------|:------|:------------|
-| April 27, 2020 | Joe Borovsky | The Magnetosphere as a System | Space Science |
+| April 27, 2020 | Joe Borovsky | [The Magnetosphere as a System][1] | Space Science |
 | May 4, 2020 | Lynn Wilson | Solar Wind | GSFC |
 | May 11, 2020 | Heli Hietala  | The Bowshock and Foreshock | Imperial College London |
 | May 18, 2020 | Ferdinand Plaschke | The Magnetosheath | SRI, Graz |
@@ -27,3 +27,5 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Aug 10, 2020 | Eric Donovan | Proton Aurora | UofC |
 | Aug 17, 2020 | Liz McDonald | STEVE | GSFC |
 | Aug 24, 2020 | Christine Gabrielse | Magnetotail Convection and Substorms | Aerospace |
+
+[1]:https://msolss.github.io/MagSeminars/2020/04/27/The-Magnetosphere-as-a-System.html
