@@ -4,7 +4,7 @@ author: Kyle Murphy
 layout: post
 ---
 
-Dr. Joe Borovsky kicked off the Magnetosphere Online Seminar Series with his talk The Magnetosphere as a System. In his talk, Joe presented an overview of the complex solar wind-magnetosphere interaction, the various plasma regimes which comprise Earth's magnetosphere, and the physical processes which couple these regimes within the system. A more thorough review can be found in the paper [The Earth's Magnetosphere: A Systems Science Overview and Assessment (Borovksy and Valdivia 2018)][1] as well as a number of resources recommended by Joe below.
+Dr. Joe Borovsky kicked off the Magnetosphere Online Seminar Series with his talk The Magnetosphere as a System. In his talk, Joe presented an overview of the complex solar wind-magnetosphere interaction, the various plasma regimes which comprise Earth's magnetosphere, and the physical processes which couple these regimes within the system. A more thorough review can be found in the paper [The Earth's Magnetosphere: A Systems Science Overview and Assessment (Borovsky and Valdivia 2018)][1] as well as a number of resources recommended by Joe below.
 
 The seminar received overwhelming attendance, reaching max capacity of 300 attendees within a few minutes of starting, and had a very active question and answer period. While reaching capacity of the meeting is a huge positive, this unfortunately meant that not everyone was able to attend the seminar. For those unable to attend the seminar live you can view a recording of the seminar on our [YouTube channel][2] and find a copy of Joe's talk [here][3].
 
