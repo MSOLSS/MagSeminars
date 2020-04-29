@@ -5,6 +5,8 @@ icon: fa-calendar-alt
 order: 2
 ---
 
+Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated below.
+
 | Date |Speaker | Title/Topic | Institution |
 |:-----|:-------|:------|:------------|
 | April 27, 2020 | Joe Borovsky | The Magnetosphere as a System | Space Science |
