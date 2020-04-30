@@ -12,6 +12,11 @@ More complicated posts (adding images, headings, etc.) can be made using html, e
 
 The schedule and tentative shcedule is below.
 
+### ToDo's
+
+- Slido for questions? 
+- YouTube for streaming? 
+
 ## Schedule
 
 Confirmed is **bold**.
