@@ -1,5 +1,5 @@
 ---
-title: The Magnetosphere as a System
+title: The Solar Wind
 author: Kyle Murphy
 layout: post
 ---
