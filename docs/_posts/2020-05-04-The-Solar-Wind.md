@@ -4,7 +4,7 @@ author: Kyle Murphy
 layout: post
 ---
 
-Dr. Lynn Wilson from NASA Goddard Space Flight Center gave the second talk in the Magnetosphere Online Seminar Series with a excellent review of the solar wind. Lynn covered both the fast and slow solar wind and detailed their composition (plasma density, temperature, and $\beta$). He also discussed solar wind transients including Corotating and Stream Interaction Regions (CIRs/SIRs), Coronal Mass Ejections (CMEs) and Solar Energetic Particle events (SEPs). 
+Dr. Lynn Wilson from NASA Goddard Space Flight Center gave the second talk in the Magnetosphere Online Seminar Series with a excellent review of the solar wind. Lynn covered both the fast and slow solar wind and detailed their composition (plasma density, temperature, and beta). He also discussed solar wind transients including Corotating and Stream Interaction Regions (CIRs/SIRs), Coronal Mass Ejections (CMEs) and Solar Energetic Particle events (SEPs). 
 
 Lynn's seminar was the first to be live streamed on YouTube along with the Zoom meeting and was an overall success. You can find a copy of Lynn's [talk here][1] as well as a recording of his seminar on our [YouTube channel][2].  
 
