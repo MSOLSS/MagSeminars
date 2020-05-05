@@ -12,13 +12,13 @@ Lynn also provided an excellent set of references for each topic which can be fo
 
 Further Reading
 
-Articles Recommended by Lynn:
+Articles recommended by Lynn:
 
 - [The Statistical Properties of Solar Wind Temperature Parameters Near 1 au. Wilson et al. (2018)][3]
 - [Solar Energetic Particles. Reames (2017)][4]
 - See the [talk][1] as well.
 
-Articles Recommended by the audience:
+Articles recommended by the audience:
 
 - [The Response of Earth's Electron Radiation Belts to Geomagnetic Storms: Statistics from the Van Allen Probes Era Including Effects from Different Storm Drivers. Turner et al. (2019)][5]
 - [Multi-spacecraft observations and transport simulations of solar energetic particles for the May 17th 2012 event. Battarbee et al. (2018)][6]
