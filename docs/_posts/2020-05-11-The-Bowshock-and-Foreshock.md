@@ -4,7 +4,9 @@ author: Kyle Murphy
 layout: post
 ---
 
-Dr. Heli Hietala gave a thorough overview of the Earth's bowshock and foreshock and everythying in between. Heli discussed how shocks form within a plasma, how plasma partciles can be acclerated within a shock, and showed examples of shocks as observed by in-situ satellites and modelled in MHD simulations. She discussed the orientation of shocks, shock obliquity, and how these affect both the electron and ion foreshocks, as well as the structures and plasma dynamics forming within the bowshock/foreshock region including: foreschokc bubbles, hot flow anomolies, ULF waves, shocklets, short large amplitude magnetic structures, and reconnections within the foreshock. Heli concluded with a discussion of where she would like to see the field move in the future. You can find a copy of Heli's [talk here][1] as well as a recording of her seminar on our [YouTube channel][2]
+Dr. Heli Hietala gave a thorough overview of the Earth's bowshock and foreshock and everythying in between. Heli discussed how shocks form within a plasma, how plasma partciles can be acclerated within a shock, and showed examples of shocks as observed by in-situ satellites and modelled in MHD simulations. She discussed the orientation of shocks, shock obliquity, and how these affect both the electron and ion foreshocks, as well as the structures and plasma dynamics forming within the bowshock/foreshock region including: foreschokc bubbles, hot flow anomolies, ULF waves, shocklets, short large amplitude magnetic structures, and reconnections within the foreshock. Heli concluded with a discussion of where she would like to see the field move in the future. 
+
+You can find a copy of Heli's [talk here][1] as well as a recording of her seminar on our [YouTube channel][2]
 
  
 
