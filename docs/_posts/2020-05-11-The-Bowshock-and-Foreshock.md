@@ -8,8 +8,6 @@ Dr. Heli Hietala gave a thorough overview of the Earth's bowshock and foreshock 
 
 You can find a copy of Heli's [talk here][1] as well as a recording of her seminar on our [YouTube channel][2]
 
- 
-
 Further Reading
 
 Articles recommended by Heli:
