@@ -12,7 +12,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | April 27, 2020 | Joe Borovsky | [The Magnetosphere as a System][1] | Space Science |
 | May 4, 2020 | Lynn Wilson | [Solar Wind][2] | GSFC |
 | May 11, 2020 | Heli Hietala  | [The Bowshock and Foreshock][3] | Imperial College London |
-| May 18, 2020 | Ferdinand Plaschke | The Magnetosheath | SRI, Graz |
+| May 18, 2020 | Ferdinand Plaschke | [The Magnetosheath][4] | SRI, Graz |
 | May 25, 2020 | Holiday |  |  |
 | June 1, 2020 | Ying Zou | The Magnetopause | U. A. Huntsville |
 | June 8, 2020 | Stephen Fuselier | Oxygen at the Magnetopause | SwRI |
@@ -32,3 +32,4 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 [1]:https://msolss.github.io/MagSeminars/2020/04/27/The-Magnetosphere-as-a-System.html
 [2]:https://msolss.github.io/MagSeminars/2020/05/04/The-Solar-Wind.html
 [3]:https://msolss.github.io/MagSeminars/2020/05/11/The-Bowshock-and-Foreshock.html
+[4]:
