@@ -17,6 +17,6 @@ Articles recommended by Ferdinand:
 
 
 
-[1]:https://github.com/MSOLSS/MagSeminars/blob/master/presentations/Hietala_Magnetosphere_Online_Seminar_2020_05_11.pdf
+[1]:https://github.com/MSOLSS/MagSeminars/blob/master/presentations/Plaschke_msh.pdf
 [2]:https://www.youtube.com/channel/UCNlOK9mCmI3V111EHQRCuEQ
 [3]:https://www.nature.com/articles/s41586-018-0091-5

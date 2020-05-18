@@ -32,4 +32,4 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 [1]:https://msolss.github.io/MagSeminars/2020/04/27/The-Magnetosphere-as-a-System.html
 [2]:https://msolss.github.io/MagSeminars/2020/05/04/The-Solar-Wind.html
 [3]:https://msolss.github.io/MagSeminars/2020/05/11/The-Bowshock-and-Foreshock.html
-[4]:
+[4]:https://msolss.github.io/MagSeminars/2020/05/18/The-Magnetosheath.html
