@@ -110,3 +110,5 @@ Tentative is *italic*.
 - Unsolved Problems  Michael Denton
 - The future.  Michael Wiltberger
 
+### Potential Speakers
+- Anna DeJong
