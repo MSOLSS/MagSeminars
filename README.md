@@ -12,10 +12,15 @@ More complicated posts (adding images, headings, etc.) can be made using html, e
 
 The schedule and tentative shcedule is below.
 
-### ToDo's
+### ToDo Before Next seminar
 
-- Slido for questions? 
-- YouTube for streaming? 
+- Blog post for presenter
+- Link schedule to post
+- Change links on front page
+- Post YouTube video
+- Setup next stream
+- Send email to confirm next speaker
+- Send emails to GEM/SPA newsletter (typically on Wed.)
 
 ## Schedule
 
