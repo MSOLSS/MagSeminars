@@ -14,7 +14,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | May 11, 2020 | Heli Hietala  | [The Bowshock and Foreshock][3] | Imperial College London |
 | May 18, 2020 | Ferdinand Plaschke | [The Magnetosheath][4] | SRI, Graz |
 | May 25, 2020 | Holiday |  |  |
-| June 1, 2020 | Ying Zou | The Magnetopause | U. A. Huntsville |
+| June 1, 2020 | Ying Zou | [The Magnetopause][5] | U. A. Huntsville |
 | June 8, 2020 | Stephen Fuselier | Oxygen at the Magnetopause | SwRI |
 | 10 AM EDST June 15, 2020 | Benoit Lavraud | The Cusps | IRAP |
 | 12 PM EDST June 15, 2020 | Elsayed Talaat | Space Weather Follow On | NOAA |
@@ -33,3 +33,4 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 [2]:https://msolss.github.io/MagSeminars/2020/05/04/The-Solar-Wind.html
 [3]:https://msolss.github.io/MagSeminars/2020/05/11/The-Bowshock-and-Foreshock.html
 [4]:https://msolss.github.io/MagSeminars/2020/05/18/The-Magnetosheath.html
+[5]:https://msolss.github.io/MagSeminars/2020/06/01/The-Magnetopause.html
