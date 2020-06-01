@@ -9,7 +9,7 @@ Dr. Ying Zou presented a comprehensive review of magnetopause physics divided in
 You can find a copy of Yings's [talk here][1] as well as a recording of his seminar on our [YouTube channel][2]
 
 
-[1]:https://github.com/MSOLSS/MagSeminars/blob/master/presentations/Plaschke_msh.pdf
+[1]:https://github.com/MSOLSS/MagSeminars/blob/master/presentations/Seminar_Magnetopause_YZ.pdf
 [2]:https://www.youtube.com/channel/UCNlOK9mCmI3V111EHQRCuEQ
 [3]:https://www.cosmos.esa.int/web/smile/mission
 [4]:https://www.nasa.gov/press-release/nasa-selects-missions-to-study-our-sun-its-effects-on-space-weather 
