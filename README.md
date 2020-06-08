@@ -14,13 +14,13 @@ The schedule and tentative shcedule is below.
 
 ### ToDo Before Next seminar
 
-- Blog post for presenter
-- Link schedule to post
-- Change links on front page
-- Post YouTube video
-- Setup next stream
-- Send email to confirm next speaker
-- Send emails to GEM/SPA newsletter (typically on Wed.)
+1. Blog post for presenter
+1. Link schedule to post
+1. Change links on front page
+1. Post YouTube video
+1. Setup next stream
+1. Send email to confirm next speaker
+1. Send emails to GEM/SPA newsletter (typically on Wed.)
 
 ## Schedule
 
