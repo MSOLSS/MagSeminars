@@ -57,13 +57,13 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-zoom_url: https://umd.zoom.us/j/444713322
+zoom_url: https://umd.zoom.us/j/95248424513
 
 #YouTube
-youtube_stream: https://youtu.be/2pl1sGNYEnU
+youtube_stream: https://www.youtube.com/watch?v=u8QLVevXl8Q
 
 #Next seminar, date, speaker, title
-seminar: June 8, 1200 EDST (1600 UT), Stephen Fuselier - Oxygen at the Dayside Magnetopause and Outer Magnetosphere
+seminar: June 15, will have two seminars, at 1000 EDST (1400 UT), Benoit Lavraud will present The Earth's Magnetospheric Cusps and at 1200 EDST (1600 UT) Elsayed Talaat will present The Space Weather Follow On 
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
