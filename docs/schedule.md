@@ -15,14 +15,14 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | May 18, 2020 | Ferdinand Plaschke | [The Magnetosheath][4] | SRI, Graz |
 | May 25, 2020 | Holiday |  |  |
 | June 1, 2020 | Ying Zou | [The Magnetopause][5] | U. A. Huntsville |
-| June 8, 2020 | Stephen Fuselier | Oxygen at the Magnetopause | SwRI |
-| 10 AM EDST June 15, 2020 | Benoit Lavraud | The Cusps | IRAP |
+| June 8, 2020 | Stephen Fuselier | Oxygen at the Dayside Magnetopause and Outer Magnetosphere | SwRI |
+| 10 AM EDST June 15, 2020 | Benoit Lavraud | The Earth's Magneotspheric Cusps | IRAP |
 | 12 PM EDST June 15, 2020 | Elsayed Talaat | Space Weather Follow On | NOAA |
 | June 22, 2020 | Takuma   Nakamura | The Low Latitude Boundary Layer | SRI, Graz |
 | June 29, 2020 | Ramon Lopez | Magnetospheric Currents | UT at Arlington |
 | July 6, 2020 | Eric Grimes | pySPEDAS and SPEDAS | UCLA |
 | July 13, 2020 | Hermann Lühr | Field Aligned Currents | GFZ |
-| July 20, 2020 | Andrew Yau | Ionospheric Outflow | UofC |
+| July 20, 2020 | Bill Peterson | Ionospheric Outflow | LASP |
 | July 27, 2020 | Weichao Tu | Precipitation | WVU |
 | Aug 3, 2020 | Clare Watt | Aurora | U Reading |
 | Aug 10, 2020 | Eric Donovan | Proton Aurora | UofC |
