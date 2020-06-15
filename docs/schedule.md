@@ -16,7 +16,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | May 25, 2020 | Holiday |  |  |
 | June 1, 2020 | Ying Zou | [The Magnetopause][5] | U. A. Huntsville |
 | June 8, 2020 | Stephen Fuselier | [Oxygen at the Dayside Magnetopause and Outer Magnetosphere][6] | SwRI |
-| 10 AM EDST June 15, 2020 | Benoit Lavraud | The Earth's Magneotspheric Cusps | IRAP |
+| 10 AM EDST June 15, 2020 | Benoit Lavraud | [The Earth's Magneotspheric Cusps][7] | IRAP |
 | 12 PM EDST June 15, 2020 | Elsayed Talaat | Space Weather Follow On | NOAA |
 | June 22, 2020 | Takuma   Nakamura | The Low Latitude Boundary Layer | SRI, Graz |
 | June 29, 2020 | Ramon Lopez | Magnetospheric Currents | UT at Arlington |
@@ -35,3 +35,4 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 [4]:https://msolss.github.io/MagSeminars/2020/05/18/The-Magnetosheath.html
 [5]:https://msolss.github.io/MagSeminars/2020/06/01/The-Magnetopause.html
 [6]:https://msolss.github.io/MagSeminars/2020/06/08/O-In-The-Magnetosphere.html
+[7]:https://msolss.github.io/MagSeminars/2020/06/15/The-Cusps.html
