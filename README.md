@@ -48,25 +48,29 @@ Tentative is *italic*.
 | Aug 10, 2020 | **Eric Donovan** | Proton Aurora | UofC |
 | Aug 17, 2020 | **Liz McDonald** | STEVE | GSFC |
 | Aug 24, 2020 | **Christine Gabrielse** | Magnetotail Convection and Substorms | Aerospace |
-| Aug 31, 2020 | *TBD* | Magnetotail | TBD |
+| Aug 31, 2020 | *Joachim Birn* | Magnetotail | TBD |
 | Sept 7, 2020 | **Labor Day** | TBD | TBD |
-| Sept 14, 2020 | *TBD* | Radiation Belts | TBD |
-| Sept 21, 2020 | *TBD* | Ring Current | TBD |
-| Sept 28, 2020 | *TBD* | Plasma Sphere | TBD |
-| Oct 5, 2020 | *TBD* | Microscale Phenomena | TBD |
+| Sept 14, 2020 | *Drew Turner* | Radiation Belts | TBD |
+| Sept 21, 2020 | *Vania Jordanova* | Ring Current | TBD |
+| Sept 28, 2020 | *Jerry Goldstein* | Plasma Sphere | TBD |
+| Oct 5, 2020 | *A. G. Burrell* | Python in Space Physics | TBD |
 | Oct 12, 2020 | **Columbus Day** | TBD | TBD |
-| Oct 19, 2020 | *TBD* | Unolved Problems | TBD |
-| Oct 26, 2020 | *TBD* | The Future | TBD |
-| Nov 2, 2020 | *Jonathan Eastwood* | reconnection | TBD |
-| Nov 9, 2020 | *Tai Phan* | reconnection in sheath and at magnetopause | TBD |
-| Nov 16, 2020 | *Andrey Samsonov* | global interactions from simulations | TBD |
-| Nov 23, 2020 | *Sarah Vines* | ion acceleration | TBD |
-| Nov 30, 2020 | *Steve Milan* | global interaction based on expanding contracting polar cap | TBD |
+| Oct 19, 2020 | *Jim Drake* | Microscale Phenomena | TBD |
+| Oct 26, 2020 | *Jimmy Reader* | Global MHD | TBD |
+| Nov 2, 2020 | *Yu Lin* | Kinetic Modeling (Hyrbird) | TBD |
+| Nov 9, 2020 | *Adam Kellerman* | Data Modeling and Data Assimmilation | TBD |
+| Nov 16, 2020 | *Sarah Vines* | Multi-point Observations | TBD |
+| Nov 23, 2020 | *Jim Labelle* | Radio Observations |
+| Nov 30, 2020 | *Ian Mann* | Ground-base magnetometers | TBD |
 | Dec 7, 2020 | **AGU** | TBD | TBD |
 | Dec 14, 2020 | *TBD* | TBD | TBD |
 | Dec 21, 2020 | **Christmas Week** | TBD | TBD |
 | Dec 28, 2020 | **New Years Week** | TBD | TBD |
+| Jan 6, 2021 | *TBD* | TBD | TBD |
 
+Going into 2021 continue with Imaging and Ground observations, satellite instruments. 
+
+Unsolved Problems and the Future. 
 
 ## Future Speakers and Topics
 
