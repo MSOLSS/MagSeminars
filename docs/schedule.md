@@ -30,7 +30,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Aug 24, 2020 | Christine Gabrielse | Magnetotail Convection and Substorms | Aerospace |
 | Aug 31, 2020 | Joachim Birn | Magnetotail | Space Science Institute |
 | Sept 7, 2020 | Labor Day | No Seminar |  |
-| Sept 14, 2020 | *TBD* | Radiation Belts |  |
+| Sept 14, 2020 | Drew Turner | Radiation Belts | APL |
 | Sept 21, 2020 | Vania Jordanova | Ring Current | LANL |
 | Sept 28, 2020 | Jerry Goldstein | Plasma Sphere | SWRI |
 | Oct 5, 2020 | Angeline Burrell | Python in Space Physics | NRL |
