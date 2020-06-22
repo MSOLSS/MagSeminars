@@ -48,17 +48,17 @@ Tentative is *italic*.
 | Aug 10, 2020 | **Eric Donovan** | Proton Aurora | UofC |
 | Aug 17, 2020 | **Liz McDonald** | STEVE | GSFC |
 | Aug 24, 2020 | **Christine Gabrielse** | Magnetotail Convection and Substorms | Aerospace |
-| Aug 31, 2020 | *Joachim Birn* | Magnetotail | TBD |
+| Aug 31, 2020 | **Joachim Birn** | Magnetotail | TBD |
 | Sept 7, 2020 | **Labor Day** | TBD | TBD |
-| Sept 14, 2020 | *Drew Turner* | Radiation Belts | TBD |
-| Sept 21, 2020 | *Vania Jordanova* | Ring Current | TBD |
-| Sept 28, 2020 | *Jerry Goldstein* | Plasma Sphere | TBD |
-| Oct 5, 2020 | *A. G. Burrell* | Python in Space Physics | TBD |
+| Sept 14, 2020 | **Drew Turner** | Radiation Belts | TBD |
+| Sept 21, 2020 | **Vania Jordanova** | Ring Current | TBD |
+| Sept 28, 2020 | **Jerry Goldstein** | Plasma Sphere | TBD |
+| Oct 5, 2020 | **Angeline Burrell** | Python in Space Physics | TBD |
 | Oct 12, 2020 | **Columbus Day** | TBD | TBD |
 | Oct 19, 2020 | *Jim Drake* | Microscale Phenomena | TBD |
 | Oct 26, 2020 | *Jimmy Reader* | Global MHD | TBD |
-| Nov 2, 2020 | *Yu Lin* | Kinetic Modeling (Hyrbird) | TBD |
-| Nov 9, 2020 | *Adam Kellerman* | Data Modeling and Data Assimmilation | TBD |
+| Nov 2, 2020 | **Yu Lin** | Kinetic Modeling (Hyrbird) | TBD |
+| Nov 9, 2020 | **Adam Kellerman** | Data Modeling and Data Assimmilation | TBD |
 | Nov 16, 2020 | *Sarah Vines* | Multi-point Observations | TBD |
 | Nov 23, 2020 | *Jim Labelle* | Radio Observations |
 | Nov 30, 2020 | *Ian Mann* | Ground-base magnetometers | TBD |
