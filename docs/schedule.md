@@ -40,7 +40,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Nov 2, 2020 | Yu Lin | Global Hybrid Modeling | Auburn University |
 | Nov 9, 2020 | Adam Kellerman | Data Modeling and Data Assimmilation | UCLA |
 | Nov 16, 2020 | Sarah Vines | Multi-point Observations | APL |
-| Nov 23, 2020 | *TBD* | Radio Observations |
+| Nov 23, 2020 | Jim LaBelle | Radio Observations | Dartmouth |
 | Nov 30, 2020 | *TBD* | Ground-base magnetometers |  |
 | Dec 7, 2020 | AGU | No Seminar | TBD |
 | Dec 14, 2020 | *TBD* |  |  |
