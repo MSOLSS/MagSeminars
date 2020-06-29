@@ -57,13 +57,13 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-zoom_url: https://umd.zoom.us/j/444713322
+zoom_url: https://umd.zoom.us/j/96234647252
 
 #YouTube
-youtube_stream: https://youtu.be/CjTXbCVnsH0
+youtube_stream: https://youtu.be/AufhZ8mC4QM
 
 #Next seminar, date, speaker, title
-seminar: The next seminar June 29 at 1200 EDST (1600 UT), Ramon Lopez will be presenting on Magnetospheric Currents
+seminar: The next seminar July 6 at 1200 EDST (1600 UT), Eric Grimes will be giving an overview of pySPEDAS.
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1

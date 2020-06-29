@@ -19,7 +19,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | 10 AM EDST June 15, 2020 | Benoit Lavraud | [The Earth's Magnetospheric Cusps][7] | IRAP |
 | 12 PM EDST June 15, 2020 | Elsayed Talaat | [Space Weather Follow On][8] | NOAA |
 | June 22, 2020 | Takuma   Nakamura | [The Low Latitude Boundary Layer][9] | SRI, Graz |
-| June 29, 2020 | Ramon Lopez | Magnetospheric Currents | UT at Arlington |
+| June 29, 2020 | Ramon Lopez | [Magnetospheric Currents][10] | UT at Arlington |
 | July 6, 2020 | Eric Grimes | pySPEDAS and SPEDAS | UCLA |
 | July 13, 2020 | Hermann Lühr | Field Aligned Currents | GFZ |
 | July 20, 2020 | Bill Peterson | Ionospheric Outflow | LASP |
@@ -57,3 +57,4 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 [7]:https://msolss.github.io/MagSeminars/2020/06/15/The-Cusps.html
 [8]:https://msolss.github.io/MagSeminars/2020/06/15/SWFO.html
 [9]:https://msolss.github.io/MagSeminars/2020/06/22/The-LLBL.html
+[10]:https://msolss.github.io/MagSeminars/2020/06/29/Magnetospheric-Currents.html
