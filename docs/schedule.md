@@ -21,7 +21,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | June 22, 2020 | Takuma   Nakamura | [The Low Latitude Boundary Layer][9] | SRI, Graz |
 | June 29, 2020 | Ramon Lopez | [Magnetospheric Currents][10] | UT at Arlington |
 | July 6, 2020 | Eric Grimes | pySPEDAS and SPEDAS | UCLA |
-| July 13, 2020 | Hermann Lühr | Field Aligned Currents | GFZ |
+| July 13, 2020 | Hermann Lüehr | Field Aligned Currents | GFZ |
 | July 20, 2020 | Bill Peterson | Ionospheric Outflow | LASP |
 | July 27, 2020 | Weichao Tu | Precipitation | WVU |
 | Aug 3, 2020 | Clare Watt | Aurora | U Reading |
