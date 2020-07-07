@@ -16,7 +16,7 @@ The schedule and tentative shcedule is below.
 
 1. Blog post for presenter
 1. Link schedule to post
-1. Change links on front page
+1. Change links on front page and title for next talk
 1. Post YouTube video
 1. Setup next stream
 1. Send email to confirm next speaker
