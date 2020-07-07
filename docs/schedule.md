@@ -22,7 +22,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | June 29, 2020 | Ramon Lopez | [Magnetospheric Currents][10] | UT at Arlington |
 | July 6, 2020 | Eric Grimes | pySPEDAS and SPEDAS | UCLA |
 | July 13, 2020 | Hermann Lüehr | Magnetospheric field-aligned currents: Their signatures in the ionosphere | GFZ |
-| July 20, 2020 | Bill Peterson | Ionospheric Outflow | LASP |
+| July 20, 2020 | Bill Peterson | Ionospheric Outflow: Observational Constraints on Global Models | LASP |
 | July 27, 2020 | Weichao Tu | Precipitation | WVU |
 | Aug 3, 2020 | Clare Watt | Aurora | U Reading |
 | Aug 10, 2020 | Eric Donovan | Proton Aurora | UofC |
