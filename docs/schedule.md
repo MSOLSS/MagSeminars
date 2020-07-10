@@ -41,7 +41,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Nov 9, 2020 | Adam Kellerman | Data Modeling and Data Assimmilation | UCLA |
 | Nov 16, 2020 | Sarah Vines | Multi-point Observations | APL |
 | Nov 23, 2020 | Jim LaBelle | Radio Observations | Dartmouth |
-| Nov 30, 2020 | *TBD* | Ground-base magnetometers |  |
+| Nov 30, 2020 | Ian Mann | Ground-base magnetometers |  |
 | Dec 7, 2020 | AGU | No Seminar | TBD |
 | Dec 14, 2020 | *TBD* |  |  |
 | Dec 21, 2020 | Christmas Week | No Seminar | |

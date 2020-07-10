@@ -59,9 +59,9 @@ Tentative is *italic*.
 | Oct 26, 2020 | *Jimmy Reader* | Global MHD | TBD |
 | Nov 2, 2020 | **Yu Lin** | Kinetic Modeling (Hyrbird) | TBD |
 | Nov 9, 2020 | **Adam Kellerman** | Data Modeling and Data Assimmilation | TBD |
-| Nov 16, 2020 | *Sarah Vines* | Multi-point Observations | TBD |
-| Nov 23, 2020 | *Jim Labelle* | Radio Observations |
-| Nov 30, 2020 | *Ian Mann* | Ground-base magnetometers | TBD |
+| Nov 16, 2020 | **Sarah Vines** | Multi-point Observations | TBD |
+| Nov 23, 2020 | **Jim Labelle** | Radio Observations |
+| Nov 30, 2020 | **Ian Mann** | Ground-base magnetometers | TBD |
 | Dec 7, 2020 | **AGU** | TBD | TBD |
 | Dec 14, 2020 | *TBD* | TBD | TBD |
 | Dec 21, 2020 | **Christmas Week** | TBD | TBD |
