@@ -7,7 +7,7 @@ layout: post
 Dr. Ramon Lopez surveyed and provided a brief history of the various current systems within the Earth's magnetosphere and coupled solar wind-magnetosphere-ionosphere system. Ramon discussed the Chapman-Ferraro currents, the Region 0, 1, and 2 Birkelend currents and their generation mechanisms. He then discussed the cross-tail current system and the substorm current wedge. He finished with a discussion of the ring current, one of the oldest observed space physics phenomena, and the bow shock current system. Ramon concluded with a great final point "Much is known about these current systems but there are also plenty of unkowns, and probably some unknow unkowns".  
 
 
-You can find a recording of Ramons's seminar on our [YouTube channel][1] and a copy of his talk [here][2] and a list of referenes here [5].
+You can find a recording of Ramons's seminar on our [YouTube channel][1] and a copy of his talk [here][2] and a list of referenes [here][5].
 
 Further Reading
 
