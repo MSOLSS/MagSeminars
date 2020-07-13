@@ -57,13 +57,13 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-zoom_url: https://umd.zoom.us/j/96234647252
+zoom_url:  https://umd.zoom.us/j/96234647252
 
 #YouTube
-youtube_stream: https://youtu.be/aWNYWJ_6EPQ
+youtube_stream: https://youtu.be/NoRMa656pLY
 
 #Next seminar, date, speaker, title
-seminar: The next seminar July 13 at 1200 EDST (1600 UT), Hermann Lüehr will be discussing Magnetospheric field-aligned currents and their signatures in the ionosphere.
+seminar: The next seminar July 20 at 1200 EDST (1600 UT), Bill Peterson will be discussing Ionospheric Outflow Observational Constraints on Global Models.
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
