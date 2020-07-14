@@ -53,12 +53,10 @@
         {%- else -%}
           <li><a href="#{{- _slug -}}" id="{{- _slug -}}-link" class="scrolly"><span class="{{ _class }} {{ _icon }}">{{- _title -}}</span></a></li>
         {%- endif -%}
-      {%- endfor -%}
 
-      {{ _icon }}
-      {%- assign _layout = _page.layout | default: 'none' -%}
-      {{ _layout }}
-      
+        {%- assign _layout = _sect.layout | default: 'none' -%}
+        {{ _layout }}
+      {%- endfor -%}
     {%- endunless -%}
   </ul>
 </nav>
