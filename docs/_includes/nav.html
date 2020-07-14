@@ -54,7 +54,7 @@
           <li><a href="#{{- _slug -}}" id="{{- _slug -}}-link" class="scrolly"><span class="{{ _class }} {{ _icon }}">{{- _title -}}</span></a></li>
         {%- endif -%}
       {%- endfor -%}
-      _page.layout
+      {{ _page.layout }}
     {%- endunless -%}
   </ul>
 </nav>
