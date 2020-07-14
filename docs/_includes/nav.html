@@ -58,6 +58,9 @@
       {{ _sect.layout }}
       {{ _title }}
       {{ _sect.icon }}
+      {{ _icon }}
+      {%- assign _layout = _sect.layout | default: 'none' -%}
+      {{ sect.layout }}
     {%- endunless -%}
   </ul>
 </nav>
