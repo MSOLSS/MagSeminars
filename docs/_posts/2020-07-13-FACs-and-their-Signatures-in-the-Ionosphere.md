@@ -11,4 +11,4 @@ You can find a recording of Hermans's seminar on our [YouTube channel][3] and a 
 [1]:http://doi.wiley.com/10.1029/JA081i013p02165
 [2]:https://doi.org/10.1007/978-3-030-26732-2
 [3]:https://www.youtube.com/channel/UCNlOK9mCmI3V111EHQRCuEQ
-[4]:https://www.youtube.com/channel/UCNlOK9mCmI3V111EHQRCuEQ
+[4]:https://github.com/MSOLSS/MagSeminars/blob/master/presentations/Luehr_Field-aligned%20curr.pdf
