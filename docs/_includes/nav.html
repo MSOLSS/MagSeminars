@@ -48,7 +48,11 @@
         {%- else -%}
           {%- assign _class = 'icon' -%}
         {%- endif -%}
-        <li><a href="#{{- _slug -}}" id="{{- _slug -}}-link" class="scrolly" style="font-size:0.8em"><span class="{{ _class }} {{ _icon }}"> {{- _title -}}</span></a></li>
+        {%- if _page.url =='post -%}
+          <li><a href="#{{- _slug -}}" id="{{- _slug -}}-link" class="scrolly" style="font-size:0.8em"><span class="{{ _class }} {{ _icon }}">{{- _title -}}</span></a></li>
+        {%- else -%}
+          <li><a href="#{{- _slug -}}" id="{{- _slug -}}-link" class="scrolly"><span class="{{ _class }} {{ _icon }}">{{- _title -}}</span></a></li>
+        {%- endif -%}
       {%- endfor -%}
     {%- endunless -%}
   </ul>
