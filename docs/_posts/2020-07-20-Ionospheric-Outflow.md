@@ -9,4 +9,4 @@ In todays seminar Dr. Bill Peterson gave an overview of ionospheric outflow titl
 You can find a recording of Bill's seminar on our [YouTube channel][1] and a copy of his talk [here][2].
 
 [1]:https://www.youtube.com/channel/UCNlOK9mCmI3V111EHQRCuEQ
-[2]:https://github.com/MSOLSS/MagSeminars/blob/master/presentations/Luehr_Field-aligned%20curr.pdf
+[2]:https://github.com/MSOLSS/MagSeminars/blob/master/presentations/Peterson-Ion-Outflow-2020.pdf
