@@ -55,7 +55,7 @@ Tentative is *italic*.
 | Sept 28, 2020 | **Jerry Goldstein** | Plasma Sphere | TBD |
 | Oct 5, 2020 | **Angeline Burrell** | Python in Space Physics | TBD |
 | Oct 12, 2020 | **Columbus Day** | TBD | TBD |
-| Oct 19, 2020 | *Jim Drake* | Microscale Phenomena | TBD |
+| Oct 19, 2020 | **Jim Drake** | Magnetic reconnection and the structure of the magnetopause | TBD |
 | Oct 26, 2020 | *Jimmy Reader* | Global MHD | TBD |
 | Nov 2, 2020 | **Yu Lin** | Kinetic Modeling (Hyrbird) | TBD |
 | Nov 9, 2020 | **Adam Kellerman** | Data Modeling and Data Assimmilation | TBD |

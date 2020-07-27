@@ -35,13 +35,13 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Sept 28, 2020 | Jerry Goldstein | Plasma Sphere | SWRI |
 | Oct 5, 2020 | Angeline Burrell | Python in Space Physics | NRL |
 | Oct 12, 2020 | Columbus Day | No seminar |  |
-| Oct 19, 2020 | *TBD* | Microscale Phenomena |  |
+| Oct 19, 2020 | Jim Drake | Magnetic reconnection and the structure of the magnetopause | UMD |
 | Oct 26, 2020 | *TBD* | Global MHD |  |
 | Nov 2, 2020 | Yu Lin | Global Hybrid Modeling | Auburn University |
 | Nov 9, 2020 | Adam Kellerman | Data Modeling and Data Assimmilation | UCLA |
 | Nov 16, 2020 | Sarah Vines | Multi-point Observations | APL |
 | Nov 23, 2020 | Jim LaBelle | Radio Observations | Dartmouth |
-| Nov 30, 2020 | Ian Mann | Ground-base magnetometers |  |
+| Nov 30, 2020 | Ian Mann | Ground-base magnetometers | UofA |
 | Dec 7, 2020 | AGU | No Seminar | TBD |
 | Dec 14, 2020 | *TBD* |  |  |
 | Dec 21, 2020 | Christmas Week | No Seminar | |
