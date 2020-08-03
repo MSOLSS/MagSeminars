@@ -62,4 +62,4 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 [12]:https://msolss.github.io/MagSeminars/2020/07/13/FACs-and-their-Signatures-in-the-Ionosphere.html
 [13]:https://msolss.github.io/MagSeminars/2020/07/20/Ionospheric-Outflow.html
 [14]:https://msolss.github.io/MagSeminars/2020/07/27/Precipitation-from-the-Inner-Magnetosphere.html
-[15]:https://msolss.github.io/MagSeminars/2020/08/03/The-Aurora.md
+[15]:https://msolss.github.io/MagSeminars/2020/08/03/The-Aurora.html
