@@ -24,9 +24,9 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | July 13, 2020 | Hermann Lüehr | [Magnetospheric field-aligned currents: Their signatures in the ionosphere][12] | GFZ |
 | July 20, 2020 | Bill Peterson | [Ionospheric Outflow: Observational Constraints on Global Models][13] | LASP |
 | July 27, 2020 | Weichao Tu | [Precipitation of Energetic Particles from the Inner Magnetosphere][14] | WVU |
-| Aug 3, 2020 | Clare Watt | Auroral Acceleration Mechanisms and how they relate to the Magnetospheric Substorm | Northumbria University |
-| Aug 10, 2020 | Eric Donovan | Proton Aurora | UofC |
-| Aug 17, 2020 | Liz McDonald | STEVE | GSFC |
+| Aug 3, 2020 | Clare Watt | [Auroral Acceleration Mechanisms and how they relate to the Magnetospheric Substorm][15] | Northumbria University |
+| Aug 10, 2020 | Eric Donovan | The Proton Aurora | UofC |
+| Aug 17, 2020 | Liz MacDonald | STEVE | GSFC |
 | Aug 24, 2020 | Christine Gabrielse | Magnetotail Convection and Substorms | Aerospace |
 | Aug 31, 2020 | Joachim Birn | Magnetotail | Space Science Institute |
 | Sept 7, 2020 | Labor Day | No Seminar |  |
@@ -61,4 +61,9 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 [11]:https://msolss.github.io/MagSeminars/2020/07/06/pySPEDAS.html
 [12]:https://msolss.github.io/MagSeminars/2020/07/13/FACs-and-their-Signatures-in-the-Ionosphere.html
 [13]:https://msolss.github.io/MagSeminars/2020/07/20/Ionospheric-Outflow.html
+<<<<<<< HEAD
 [14]:https://msolss.github.io/MagSeminars/2020/07/20/Precipitation-from-the-Inner-Magnetosphere.html
+[15]:https://msolss.github.io/MagSeminars/2020/08/03/The-Aurora.html
+=======
+[14]:https://msolss.github.io/MagSeminars/2020/07/27/Precipitation-from-the-Inner-Magnetosphere.html
+>>>>>>> ca4cb6bb9ddb4b356ebd79b079b9363257847d91
