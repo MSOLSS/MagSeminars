@@ -42,11 +42,12 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Nov 16, 2020 | Sarah Vines | Multi-point Observations | APL |
 | Nov 23, 2020 | Jim LaBelle | Radio Observations | Dartmouth |
 | Nov 30, 2020 | Ian Mann | Ground-base magnetometers | UofA |
-| Dec 7, 2020 | AGU | No Seminar | TBD |
-| Dec 14, 2020 | *TBD* |  |  |
-| Dec 21, 2020 | Christmas Week | No Seminar | |
-| Dec 28, 2020 | New Years Week | No Seminar | |
-| Jan 6, 2021 | *TBD* |  |  |
+| Dec 7, 2020 | AGU | No Seminar |  |
+| Dec 14, 2020 | *Winter Break* | **No Seminar** | |
+| Dec 21, 2020 | Christmas Week | **No Seminar** | |
+| Dec 28, 2020 | New Years Week | **No Seminar** | |
+| Jan 6, 2021 | *Winter Break* | **No Seminar**  | |
+| Jan 11, 2021 | John Lyon | Global MHD Simulations | Dartmouth|
 
 [1]:https://msolss.github.io/MagSeminars/2020/04/27/The-Magnetosphere-as-a-System.html
 [2]:https://msolss.github.io/MagSeminars/2020/05/04/The-Solar-Wind.html
