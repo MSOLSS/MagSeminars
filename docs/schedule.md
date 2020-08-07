@@ -26,7 +26,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | July 27, 2020 | Weichao Tu | [Precipitation of Energetic Particles from the Inner Magnetosphere][14] | WVU |
 | Aug 3, 2020 | Clare Watt | [Auroral Acceleration Mechanisms and how they relate to the Magnetospheric Substorm][15]| Northumbria University |
 | Aug 10, 2020 | Eric Donovan | Proton Aurora | UofC |
-| Aug 17, 2020 | Liz McDonald | STEVE | GSFC |
+| Aug 17, 2020 | Liz McDonald | STEVE - a subauroral phenomena | GSFC |
 | Aug 24, 2020 | Christine Gabrielse | Magnetotail Convection and Substorms | Aerospace |
 | Aug 31, 2020 | Joachim Birn | Magnetotail | Space Science Institute |
 | Sept 7, 2020 | Labor Day | No Seminar |  |
