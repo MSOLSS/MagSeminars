@@ -47,7 +47,11 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Dec 21, 2020 | Christmas Week | **No Seminar** | |
 | Dec 28, 2020 | New Years Week | **No Seminar** | |
 | Jan 6, 2021 | *Winter Break* | **No Seminar**  | |
-| Jan 11, 2021 | John Lyon | Global MHD Simulations | Dartmouth|
+| Jan 11, 2021 | John Lyon | Global MHD Simulations | Dartmouth |
+| Jan 18, 2021 | Martin Luther King Day | **No Seminar** | |
+| Jan 25, 2021 | TBD |  |  |
+| Feb 1, 2021 | Shasha Zou | Global MHD Simulations | U Michigan |
+
 
 [1]:https://msolss.github.io/MagSeminars/2020/04/27/The-Magnetosphere-as-a-System.html
 [2]:https://msolss.github.io/MagSeminars/2020/05/04/The-Solar-Wind.html
