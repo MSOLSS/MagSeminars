@@ -50,7 +50,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Jan 11, 2021 | John Lyon | Global MHD Simulations | Dartmouth |
 | Jan 18, 2021 | Martin Luther King Day | **No Seminar** | |
 | Jan 25, 2021 | TBD |  |  |
-| Feb 1, 2021 | Shasha Zou | Global MHD Simulations | U Michigan |
+| Feb 1, 2021 | Shasha Zou | Advances in MIT coupling | U Michigan |
 
 
 [1]:https://msolss.github.io/MagSeminars/2020/04/27/The-Magnetosphere-as-a-System.html
