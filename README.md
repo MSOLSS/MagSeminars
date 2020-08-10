@@ -66,7 +66,11 @@ Tentative is *italic*.
 | Dec 14, 2020 | *TBD* | TBD | TBD |
 | Dec 21, 2020 | **Christmas Week** | TBD | TBD |
 | Dec 28, 2020 | **New Years Week** | TBD | TBD |
-| Jan 6, 2021 | *TBD* | TBD | TBD |
+| Jan 6, 2021 | *Winter Break* | **No Seminar**  | |
+| Jan 11, 2021 | **John Lyon** | Global MHD Simulations | Dartmouth |
+| Jan 18, 2021 | Martin Luther King Day | **No Seminar** | |
+| Jan 25, 2021 | Alex Glocer |  |  |
+| Feb 1, 2021 | **Shasha Zou** | Advances in MIT coupling | U Michigan |
 
 Going into 2021 continue with Imaging and Ground observations, satellite instruments. 
 
