@@ -57,13 +57,13 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-zoom_url:  https://umd.zoom.us/j/96234647252
+zoom_url: https://umd.zoom.us/j/96234647252
 
 #YouTube
-youtube_stream: https://youtu.be/ZZGGhfcNc5A
+youtube_stream: https://youtu.be/8eA7LoUtS2I
 
 #Next seminar, date, speaker, title
-seminar: The next seminar Aug 10 at 1200 EDST (1600 UT), Eric Donovan will be discussing the Proton Aurora.
+seminar: In our next seminar, Aug 10 at 1200 EDST (1600 UT), Liz McDonald will be discussing	STEVE - a subauroral phenomena.
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
