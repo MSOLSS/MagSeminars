@@ -27,7 +27,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Aug 3, 2020 | Clare Watt | [Auroral Acceleration Mechanisms and how they relate to the Magnetospheric Substorm][15]| Northumbria University |
 | Aug 10, 2020 | Eric Donovan | [Proton Aurora][16] | UofC |
 | Aug 17, 2020 | Liz McDonald | STEVE - a subauroral phenomena | GSFC |
-| Aug 24, 2020 | Christine Gabrielse | Magnetotail Convection and Substorms | Aerospace |
+| Aug 24, 2020 | Christine Gabrielse | Convection and Substorms | Aerospace |
 | Aug 31, 2020 | Joachim Birn | Magnetotail | Space Science Institute |
 | Sept 7, 2020 | Labor Day | No Seminar |  |
 | Sept 14, 2020 | Drew Turner | Radiation Belts | APL |
@@ -49,8 +49,9 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Jan 6, 2021 | *Winter Break* | **No Seminar**  | |
 | Jan 11, 2021 | John Lyon | Global MHD Simulations | Dartmouth |
 | Jan 18, 2021 | Martin Luther King Day | **No Seminar** | |
-| Jan 25, 2021 | TBD |  |  |
+| Jan 25, 2021 | Rick Chappell | The Role of the Earth’s Ionosphere in Populating the Magnetosphere and Driving Its Dynamics | Vanderbilt University |
 | Feb 1, 2021 | Shasha Zou | Advances in MIT coupling | U Michigan |
+| Feb 15, 2021 | Alex Glocer | Magnetosphere-Ionosphere Coupling | GSFC |
 
 
 [1]:https://msolss.github.io/MagSeminars/2020/04/27/The-Magnetosphere-as-a-System.html
