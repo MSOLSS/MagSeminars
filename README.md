@@ -69,8 +69,9 @@ Tentative is *italic*.
 | Jan 6, 2021 | *Winter Break* | **No Seminar**  | |
 | Jan 11, 2021 | **John Lyon** | Global MHD Simulations | Dartmouth |
 | Jan 18, 2021 | Martin Luther King Day | **No Seminar** | |
-| Jan 25, 2021 | Alex Glocer |  |  |
+| Jan 25, 2021 | **Rick Chappell** | The Role of the Earth’s Ionosphere in Populating the Magnetosphere and Driving Its Dynamics | Vanderbilt University |
 | Feb 1, 2021 | **Shasha Zou** | Advances in MIT coupling | U Michigan |
+| Feb 15, 2021 | **Alex Glocer** | Magnetosphere-Ionosphere Coupling | GSFC |
 
 Going into 2021 continue with Imaging and Ground observations, satellite instruments. 
 
