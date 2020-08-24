@@ -8,7 +8,7 @@ Dr. Christine Gabrielse gave an extraordinary overview of convection and substor
 
 You can watch Christine's seminar on our [YouTube channel][1] and you can find a copy of her talk (with a number of references for further reading) [here][2].
 
-### Aditional Reserouces and Further Reading
+### Aditional Reserouces
 1. [GEM Focus Group on Magnetotail Dipolarization and its Effects in the Inner Magnetosphere][3] 
 1. [GEM FG 3D Ionospheric Electrodynamics and Its Impact on the Magnetosphere-Ionosphere-Thermosphere Coupled System][4]
 1. [GEM FG System Understanding of Radiation Belt Particle Dynamics through Multi-spacecraft and Ground-based Observations and Modeling][5]
