@@ -10,13 +10,13 @@ You can watch Christine's seminar on our [YouTube channel][1] and you can find a
 
 ### Aditional Reserouces and Further Reading
 1. [GEM Focus Group on Magnetotail Dipolarization and its Effects in the Inner Magnetosphere][3] 
-1. [GEM FG 3D Ionospheric Electrodynamics and Its Impact on the Magnetosphere-Ionosphere-Thermosphere Coupled System][4]: bit.ly/IEMIT
+1. [GEM FG 3D Ionospheric Electrodynamics and Its Impact on the Magnetosphere-Ionosphere-Thermosphere Coupled System][4]
 1. [GEM FG System Understanding of Radiation Belt Particle Dynamics through Multi-spacecraft and Ground-based Observations and Modeling][5]
 
 
 
 [1]:https://www.youtube.com/channel/UCNlOK9mCmI3V111EHQRCuEQ
 [2]:https://github.com/MSOLSS/MagSeminars/blob/master/presentations/2020-08-24_Convection_and_Substorms_Christine.pdf
-[3]:bit.ly/DIPFG
-[4]:bit.ly/IEMIT
-[5]:bit.ly/RBMulti
+[3]:https://gem.epss.ucla.edu/mediawiki/index.php/FG:_Magnetotail_Dipolarization_and_Its_Effects_on_the_Inner_Magnetosphere
+[4]:https://gem.epss.ucla.edu/mediawiki/index.php/FG:_3D_Ionospheric_Electrodynamics_and_Its_Impact_on_the_Magnetosphere-Ionosphere-Thermosphere_Coupled_System
+[5]:https://gem.epss.ucla.edu/mediawiki/index.php/FG:_System_Understanding_of_Radiation_Belt_Particle_Dynamics_through_Multi-spacecraft_and_Ground-based_Observations_and_Modeling
