@@ -72,4 +72,4 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 [16]:https://msolss.github.io/MagSeminars/2020/08/10/The-Proton-Aurora.html
 [17]:https://msolss.github.io/MagSeminars/2020/08/17/STEVE.html
 [18]:https://msolss.github.io/MagSeminars/2020/08/24/Convection-and-Substorms.html
-[18]:https://msolss.github.io/MagSeminars/2020/08/31/The-Dynamic-Magnetotail.html
+[19]:https://msolss.github.io/MagSeminars/2020/08/31/The-Dynamic-Magnetotail.html
