@@ -3,3 +3,5 @@
 .sass-cache
 Gemfile.lock
 /.vs
+.vs/MagSeminars/v15/.suo
+.vs/slnx.sqlite
