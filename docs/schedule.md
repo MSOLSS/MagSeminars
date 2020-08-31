@@ -30,9 +30,9 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Aug 24, 2020 | Christine Gabrielse | [Convection and Substorms][18] | Aerospace |
 | Aug 31, 2020 | Joachim Birn | [The dynamic magnetotail: Substorms][19] | Space Science Institute |
 | Sept 7, 2020 | Labor Day | No Seminar |  |
-| Sept 14, 2020 | Drew Turner | Radiation Belts | APL |
-| Sept 21, 2020 | Vania Jordanova | Ring Current | LANL |
-| Sept 28, 2020 | Jerry Goldstein | Plasma Sphere | SWRI |
+| Sept 14, 2020 | Drew Turner | The Radiation Belts | APL |
+| Sept 21, 2020 | Vania Jordanova | The Ring Current | LANL |
+| Sept 28, 2020 | Jerry Goldstein | The Plasmasphere | SWRI |
 | Oct 5, 2020 | Angeline Burrell | Python in Space Physics | NRL |
 | Oct 12, 2020 | Columbus Day | No seminar |  |
 | Oct 19, 2020 | Jim Drake | Magnetic reconnection and the structure of the magnetopause | UMD |
