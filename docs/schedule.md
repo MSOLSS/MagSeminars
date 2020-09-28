@@ -32,7 +32,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Sept 7, 2020 | Labor Day | No Seminar |  |
 | Sept 14, 2020 | Drew Turner | [The Radiation Belts][20] | APL |
 | Sept 21, 2020 | Vania Jordanova | [The Ring Current][21] | LANL |
-| Sept 28, 2020 | Jerry Goldstein | The Plasmasphere | SWRI |
+| Sept 28, 2020 | Jerry Goldstein | [The Plasmasphere][22] | SWRI |
 | Oct 5, 2020 | Angeline Burrell | Python in Space Physics | NRL |
 | Oct 12, 2020 | Columbus Day | No seminar |  |
 | Oct 19, 2020 | Jim Drake | Magnetic reconnection and the structure of the magnetopause | UMD |
@@ -75,3 +75,4 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 [19]:https://msolss.github.io/MagSeminars/2020/08/31/The-Dynamic-Magnetotail.html
 [20]:https://msolss.github.io/MagSeminars/2020/09/14/The-Radiation-Belts.html
 [21]:https://msolss.github.io/MagSeminars/2020/09/28/The-Ring-Current.html
+[22]:https://msolss.github.io/MagSeminars/2020/09/28/The-Plasmasphere.html
