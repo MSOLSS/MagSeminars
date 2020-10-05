@@ -74,5 +74,5 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 [18]:https://msolss.github.io/MagSeminars/2020/08/24/Convection-and-Substorms.html
 [19]:https://msolss.github.io/MagSeminars/2020/08/31/The-Dynamic-Magnetotail.html
 [20]:https://msolss.github.io/MagSeminars/2020/09/14/The-Radiation-Belts.html
-[21]:https://msolss.github.io/MagSeminars/2020/09/28/The-Ring-Current.html
+[21]:https://msolss.github.io/MagSeminars/2020/09/21/The-Ring-Current.html
 [22]:https://msolss.github.io/MagSeminars/2020/09/28/The-Plasmasphere.html
