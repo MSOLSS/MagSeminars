@@ -38,10 +38,10 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Oct 19, 2020 | Jim Drake | [Magnetic reconnection and the structure of the magnetopause][24] | UMD |
 | Oct 26, 2020 | Jimmy Reader | Global MHD | UNH |
 | Nov 2, 2020 | Yu Lin | Global Hybrid Modeling | Auburn University |
-| Nov 9, 2020 | Adam Kellerman | Data Modeling and Data Assimmilation | UCLA |
+| Nov 9, 2020 | Adam Kellerman | Data Modeling and Data Assimilation | UCLA |
 | Nov 16, 2020 | Sarah Vines | Multi-point Observations | APL |
 | Nov 23, 2020 | Jim LaBelle | Radio Observations | Dartmouth |
-| Nov 30, 2020 | Ian Mann | Ground-base magnetometers | UofA |
+| Nov 30, 2020 | Ian Mann | Ground-based magnetometers | UofA |
 | Dec 7, 2020 | AGU | No Seminar |  |
 | Dec 14, 2020 | *Winter Break* | **No Seminar** | |
 | Dec 21, 2020 | Christmas Week | **No Seminar** | |
