@@ -36,7 +36,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Oct 5, 2020 | Angeline Burrell | [Python in Space Physics][23] | NRL |
 | Oct 12, 2020 | Columbus Day | No seminar |  |
 | Oct 19, 2020 | Jim Drake | [Magnetic reconnection and the structure of the magnetopause][24] | UMD |
-| Oct 26, 2020 | Jimmy Raeder | Global MHD | UNH |
+| Oct 26, 2020 | Jimmy Raeder | [Global MHD][25] | UNH |
 | Nov 2, 2020 | Yu Lin | Global Hybrid Modeling | Auburn University |
 | Nov 9, 2020 | Adam Kellerman | Data Modeling and Data Assimilation | UCLA |
 | Nov 16, 2020 | Sarah Vines | Multi-point Observations | APL |
@@ -78,4 +78,5 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 [22]:https://msolss.github.io/MagSeminars/2020/09/28/The-Plasmasphere.html
 [23]:https://msolss.github.io/MagSeminars/2020/10/05/Python-In-Space-Physics.html
 [24]:https://msolss.github.io/MagSeminars/2020/10/19/Reconnection-and-the-structure-of-the-magnetopause.html
+[25]:https://msolss.github.io/MagSeminars/2020/10/26/Global-MHD.html
 
