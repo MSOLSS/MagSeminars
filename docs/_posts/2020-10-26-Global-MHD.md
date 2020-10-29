@@ -9,4 +9,4 @@ This week Professor Jimmy Reader provided a comprehensive review of Magnetohydro
 You can find a recording of Jimmy's seminar on our [YouTube channel][1] and a copy of his talk [here][2].
 
 [1]:https://www.youtube.com/channel/UCNlOK9mCmI3V111EHQRCuEQ
-[2]:https://github.com/MSOLSS/MagSeminars/blob/master/presentations/
+[2]:https://github.com/MSOLSS/MagSeminars/blob/master/presentations/Raeder_talk-2020-globalmhd.pdf
