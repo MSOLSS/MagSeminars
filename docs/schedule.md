@@ -79,4 +79,4 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 [23]:https://msolss.github.io/MagSeminars/2020/10/05/Python-In-Space-Physics.html
 [24]:https://msolss.github.io/MagSeminars/2020/10/19/Reconnection-and-the-structure-of-the-magnetopause.html
 [25]:https://msolss.github.io/MagSeminars/2020/10/26/Global-MHD.html
-
+[26]:https://msolss.github.io/MagSeminars/2020/11/02/Global-Hybrid-Models.html
