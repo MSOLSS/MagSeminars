@@ -8,5 +8,14 @@ In this week’s seminar Dr. Sarah Vines staff scientist at JHU APL discussed Mu
 
 You can find a recording of Sarah's seminar on our [YouTube channel][1] and a copy of her talk [here][2]. 
 
+Further Reading:
+
+- [Analysis Methods for Multi-Spacecraft Data][3]
+- [Analysis Methods for Multi-Spacecraft Data Revisited][4]
+- [Ionospheric Multi-Spacecraft Analysis Tools][5]
+
 [1]:https://www.youtube.com/channel/UCNlOK9mCmI3V111EHQRCuEQ
-[2]:https://github.com/MSOLSS/MagSeminars/blob/master/presentations/
+[2]:https://github.com/MSOLSS/MagSeminars/blob/master/presentations/Vines_MultipointObs_MOSS_16Nov2020.pdf
+[3]:http://www.issibern.ch/PDF-Files/analysis_methods_1_1a.pdf
+[4]:https://www.issibern.ch/publications/pdf/sr8.pdf
+[5]:https://link.springer.com/book/10.1007/978-3-030-26732-2
