@@ -40,7 +40,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Nov 2, 2020 | Yu Lin | [Global Hybrid Modeling][26] | Auburn University |
 | Nov 9, 2020 | Adam Kellerman | [Data Assimilation][27] | UCLA |
 | Nov 16, 2020 | Sarah Vines | [Multi-point Observations][28] | APL |
-| Nov 23, 2020 | Jim LaBelle | Radio Observations | Dartmouth |
+| Nov 23, 2020 | Jim LaBelle | [Auroral Electromagnetic Waves & Radiation][29] | Dartmouth |
 | Nov 30, 2020 | Ian Mann | Diagnosing Geospace Dynamics with Magnetometer Arrays | UofA |
 | Dec 7, 2020 | AGU | No Seminar |  |
 | Dec 14, 2020 | *Winter Break* | **No Seminar** | |
@@ -82,3 +82,4 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 [26]:https://msolss.github.io/MagSeminars/2020/11/02/Global-Hybrid-Models.html
 [27]:https://msolss.github.io/MagSeminars/2020/11/09/Data-Assimilation.html
 [28]:https://msolss.github.io/MagSeminars/2020/11/16/Multi-point-observations.html
+[29]:https://msolss.github.io/MagSeminars/2020/11/23/Auroral-Waves-and-Radiation.html
