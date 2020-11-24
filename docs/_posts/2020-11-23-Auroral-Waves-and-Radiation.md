@@ -9,4 +9,4 @@ In this week’s seminar Dr. Jim LaBelle discussed theory, observations, and phy
 You can find a recording of Jim's seminar on our [YouTube channel][1] and a copy of his talk [here][2]. 
 
 [1]:https://www.youtube.com/channel/UCNlOK9mCmI3V111EHQRCuEQ
-[2]:https://github.com/MSOLSS/MagSeminars/blob/master/presentations/
+[2]:https://github.com/MSOLSS/MagSeminars/blob/master/presentations/mag-talk-2020.pdf
