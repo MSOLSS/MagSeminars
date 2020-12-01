@@ -20,7 +20,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Jan 25, 2021 | Rick Chappell | The Role of the Earth’s Ionosphere in Populating the Magnetosphere and Driving Its Dynamics | Vanderbilt University |
 | Feb 1, 2021 | Shasha Zou | Advances in MIT coupling | U Michigan |
 | Feb 8, 2021 | Alex Glocer | Magnetosphere-Ionosphere Coupling | GSFC |
-| February 15 |	President's Day | No Seminar |
+| February 15 |	President's Day | **No Seminar** |
 | February 22 | Fran Bagenal | Planetary Magnetospheres | U Colorado |
 | March 1 | Roman Gomez | Top Hat Plasma Instruments | SWRI | 
 | March 8 | TBD | Solid State Plasma Instruments | TBD |
@@ -28,7 +28,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | March 22 | Gina DiBraccio | Fluxgate Magnetometers | GSFC |
 | March 29 | George Hospodarsky | Search Coil Magnetometers | U Iowa |
 | April 5 | John Bonnell | Electric Fields | UCB SSL |
-| April 12 | Easter Monday  | No Seminar |
+| April 12 | Easter Monday  | **No Seminar** |
 
 <h2><a id="2020">2020</a></h2>
 
