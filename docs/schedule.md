@@ -9,7 +9,6 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 
 Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>. 
 
-
 <h2><a id="2021">2021</a></h2>
 
 
@@ -22,12 +21,12 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Feb 1, 2021 | Shasha Zou | Advances in MIT coupling | U Michigan |
 | Feb 8, 2021 | Alex Glocer | Magnetosphere-Ionosphere Coupling | GSFC |
 | February 15 |	President's Day | No Seminar |
-| February 22 | Fran Bagenal | Planetary Magnetospheres | University of Colorado |
+| February 22 | Fran Bagenal | Planetary Magnetospheres | U Colorado |
 | March 1 | Roman Gomez | Top Hat Plasma Instruments | SWRI | 
 | March 8 | TBD | Solid State Plasma Instruments | TBD |
-| March 15 | Justin Kasper | Faraday Cup Plasma Instruments | University of Michigan |
+| March 15 | Justin Kasper | Faraday Cup Plasma Instruments | U Michigan |
 | March 22 | Gina DiBraccio | Fluxgate Magnetometers | GSFC |
-| March 29 | George Hospodarsky | Search Coil Magnetometers | University of Iowa |
+| March 29 | George Hospodarsky | Search Coil Magnetometers | U Iowa |
 | April 5 | John Bonnell | Electric Fields | UCB SSL |
 | April 12 | Easter Monday  | No Seminar |
 
