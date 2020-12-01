@@ -7,6 +7,28 @@ order: 2
 
 Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated below.
 
+# 2021
+
+| Date |Speaker | Title/Topic | Institution |
+|:-----|:-------|:------|:------------|
+| Jan 6, 2021 | *Winter Break* | **No Seminar**  | |
+| Jan 11, 2021 | John Lyon | Global MHD Simulations | Dartmouth |
+| Jan 18, 2021 | Martin Luther King Day | **No Seminar** | |
+| Jan 25, 2021 | Rick Chappell | The Role of the Earth’s Ionosphere in Populating the Magnetosphere and Driving Its Dynamics | Vanderbilt University |
+| Feb 1, 2021 | Shasha Zou | Advances in MIT coupling | U Michigan |
+| Feb 8, 2021 | Alex Glocer | Magnetosphere-Ionosphere Coupling | GSFC |
+| February 15 |	President's Day | No Seminar |
+| February 22 | Fran Bagenal | Planetary Magnetospheres | University of Colorado |
+| March 1 | Roman Gomez | Top Hat Plasma Instruments | SWRI | 
+| March 8 | TBD | Solid State Plasma Instruments | TBD |
+| March 15 | Justin Kasper | Faraday Cup Plasma Instruments | University of Michigan |
+| March 22 | Gina DiBraccio | Fluxgate Magnetometers | GSFC |
+| March 29 | George Hospodarsky | Search Coil Magnetometers | University of Iowa |
+| April 5 | John Bonnell | Electric Fields | UCB SSL |
+| April 12 | Easter Monday  | No Seminar |
+
+# 2020
+
 | Date |Speaker | Title/Topic | Institution |
 |:-----|:-------|:------|:------------|
 | April 27, 2020 | Joe Borovsky | [The Magnetosphere as a System][1] | Space Science |
@@ -46,13 +68,6 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Dec 14, 2020 | *Winter Break* | **No Seminar** | |
 | Dec 21, 2020 | Christmas Week | **No Seminar** | |
 | Dec 28, 2020 | New Years Week | **No Seminar** | |
-| Jan 6, 2021 | *Winter Break* | **No Seminar**  | |
-| Jan 11, 2021 | John Lyon | Global MHD Simulations | Dartmouth |
-| Jan 18, 2021 | Martin Luther King Day | **No Seminar** | |
-| Jan 25, 2021 | Rick Chappell | The Role of the Earth’s Ionosphere in Populating the Magnetosphere and Driving Its Dynamics | Vanderbilt University |
-| Feb 1, 2021 | Shasha Zou | Advances in MIT coupling | U Michigan |
-| Feb 15, 2021 | Alex Glocer | Magnetosphere-Ionosphere Coupling | GSFC |
-
 
 [1]:https://msolss.github.io/MagSeminars/2020/04/27/The-Magnetosphere-as-a-System.html
 [2]:https://msolss.github.io/MagSeminars/2020/05/04/The-Solar-Wind.html
