@@ -9,6 +9,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 
 # 2021
 
+
 | Date |Speaker | Title/Topic | Institution |
 |:-----|:-------|:------|:------------|
 | Jan 6, 2021 | *Winter Break* | **No Seminar**  | |
