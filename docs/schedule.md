@@ -7,7 +7,7 @@ order: 2
 
 Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated below.
 
-# 2021
+<h2>2021</h2>
 
 
 | Date |Speaker | Title/Topic | Institution |
@@ -28,7 +28,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | April 5 | John Bonnell | Electric Fields | UCB SSL |
 | April 12 | Easter Monday  | No Seminar |
 
-# 2020
+<h2>2020</h2>
 
 | Date |Speaker | Title/Topic | Institution |
 |:-----|:-------|:------|:------------|
