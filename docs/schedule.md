@@ -23,7 +23,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | February 15 |	President's Day | **No Seminar** |
 | February 22 | Fran Bagenal | Planetary Magnetospheres | U Colorado |
 | March 1 | Roman Gomez | Top Hat Plasma Instruments | SWRI | 
-| March 8 | TBD | Solid State Plasma Instruments | TBD |
+| March 8 | Ashley Greeley | Solid State Plasma Instruments | CUA |
 | March 15 | Justin Kasper | Faraday Cup Plasma Instruments | U Michigan |
 | March 22 | Gina DiBraccio | Fluxgate Magnetometers | GSFC |
 | March 29 | George Hospodarsky | Search Coil Magnetometers | U Iowa |
