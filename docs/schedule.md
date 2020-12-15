@@ -31,7 +31,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Apr 12 | **Easter Monday**   | **No Seminar** |
 | Apr 19 | *TBD*  | *TBD* |
 | Apr 26 | *TBD*  | *TBD* |
-| May 3 | Emma Bland  | SuperDARN | Birkeland Centre for Space Science |
+| May 3 | Emma Bland  | SuperDARN | The University Centre in Svalbard |
 | May 10 | Brian Walsh  | Soft X-Rays in The Magnetosphere | BU |
 
 <h2><a id="2020">2020</a></h2>
