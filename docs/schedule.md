@@ -15,7 +15,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Date |Speaker | Title/Topic | Institution |
 |:-----|:-------|:------|:------------|
 | Jan 6, 2021 | *Winter Break* | **No Seminar**  | |
-| Jan 11, 2021 | John Lyon | Global MHD Simulations | Dartmouth |
+| Jan 11, 2021 | John Lyon | MHD Simulations at the Meso-scale | Dartmouth |
 | Jan 18, 2021 | Martin Luther King Day | **No Seminar** | |
 | Jan 25, 2021 | Rick Chappell | The Role of the Earth’s Ionosphere in Populating the Magnetosphere and Driving Its Dynamics | Vanderbilt University |
 | Feb 1, 2021 | Shasha Zou | Advances in MIT coupling | U Michigan |

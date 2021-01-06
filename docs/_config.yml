@@ -57,13 +57,13 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-zoom_url: https://msolss.github.io/MagSeminars/
+zoom_url: https://umd.zoom.us/j/97048233531
 
 #YouTube
-youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+youtube_stream: https://youtu.be/BM7X9p1igGQ
 
 #Next seminar, date, speaker, title
-seminar: In our next seminar, January 11 at 1200 EDST (1600 UT), John Lyon will be discussing Global MHD Simulations.
+seminar: In our next seminar, January 11 at 1200 EDST (1600 UT), John Lyon will be discussing MHD Simulations at the Meso-scale.
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
