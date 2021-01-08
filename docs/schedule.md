@@ -29,7 +29,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Mar 29 | George Hospodarsky | Search Coil Magnetometers | U Iowa |
 | Apr 5 | John Bonnell | Electric Fields | UCB SSL |
 | Apr 12 | **Easter Monday**   | **No Seminar** |
-| Apr 19 | *TBD*  | *TBD* |
+| Apr 19 | Harald Frey  | Optical Instruments | UCB |
 | Apr 26 | *TBD*  | *TBD* |
 | May 3 | Emma Bland  | SuperDARN | The University Centre in Svalbard |
 | May 10 | Brian Walsh  | Soft X-Rays in The Magnetosphere | BU |
