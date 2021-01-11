@@ -15,20 +15,24 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Date |Speaker | Title/Topic | Institution |
 |:-----|:-------|:------|:------------|
 | Jan 6, 2021 | *Winter Break* | **No Seminar**  | |
-| Jan 11, 2021 | John Lyon | Global MHD Simulations | Dartmouth |
+| Jan 11, 2021 | John Lyon | MHD Simulations at the Meso-scale | Dartmouth |
 | Jan 18, 2021 | Martin Luther King Day | **No Seminar** | |
 | Jan 25, 2021 | Rick Chappell | The Role of the Earth’s Ionosphere in Populating the Magnetosphere and Driving Its Dynamics | Vanderbilt University |
 | Feb 1, 2021 | Shasha Zou | Advances in MIT coupling | U Michigan |
 | Feb 8, 2021 | Alex Glocer | Magnetosphere-Ionosphere Coupling | GSFC |
-| February 15 |	President's Day | **No Seminar** |
-| February 22 | Fran Bagenal | Planetary Magnetospheres | U Colorado |
-| March 1 | Roman Gomez | Top Hat Plasma Instruments | SWRI | 
-| March 8 | Ashley Greeley | Solid State Plasma Instruments | CUA |
-| March 15 | Justin Kasper | Faraday Cup Plasma Instruments | U Michigan |
-| March 22 | Gina DiBraccio | Fluxgate Magnetometers | GSFC |
-| March 29 | George Hospodarsky | Search Coil Magnetometers | U Iowa |
-| April 5 | John Bonnell | Electric Fields | UCB SSL |
-| April 12 | Easter Monday  | **No Seminar** |
+| Feb 15 |	President's Day | **No Seminar** |
+| Feb 22 | Fran Bagenal | Planetary Magnetospheres | U Colorado |
+| Mar 1 | Roman Gomez | Top Hat Plasma Instruments | SWRI | 
+| Mar 8 | Ashley Greeley | Solid State Plasma Instruments | CUA |
+| Mar 15 | Justin Kasper | Faraday Cup Plasma Instruments | U Michigan |
+| Mar 22 | Gina DiBraccio | Fluxgate Magnetometers | GSFC |
+| Mar 29 | George Hospodarsky | Search Coil Magnetometers | U Iowa |
+| Apr 5 | John Bonnell | Electric Fields | UCB SSL |
+| Apr 12 | **Easter Monday**   | **No Seminar** |
+| Apr 19 | Harald Frey  | Optical Instruments | UCB |
+| Apr 26 | *TBD*  | *TBD* |
+| May 3 | Emma Bland  | SuperDARN | The University Centre in Svalbard |
+| May 10 | Brian Walsh  | Soft X-Rays in The Magnetosphere | BU |
 
 <h2><a id="2020">2020</a></h2>
 
