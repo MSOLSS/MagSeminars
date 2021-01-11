@@ -106,3 +106,4 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 [28]:https://msolss.github.io/MagSeminars/2020/11/16/Multi-point-observations.html
 [29]:https://msolss.github.io/MagSeminars/2020/11/23/Auroral-Waves-and-Radiation.html
 [30]:https://msolss.github.io/MagSeminars/2020/11/30/Diagnosing-Geospace-with-Ground-Magnetometers.html
+[31]:https://msolss.github.io/MagSeminars/2021/01/11/MHD-Simulations-at-the-Mesoscale.html
