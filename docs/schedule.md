@@ -18,7 +18,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Jan 11, 2021 | John Lyon | [MHD Simulations at the Meso-scale][31] | Dartmouth |
 | Jan 18, 2021 | Martin Luther King Day | **No Seminar** | |
 | Jan 25, 2021 | Rick Chappell | The Role of the Earth’s Ionosphere in Populating the Magnetosphere and Driving Its Dynamics | Vanderbilt University |
-| Feb 1, 2021 | Shasha Zou | Advances in MIT coupling | U Michigan |
+| Feb 1, 2021 | Shasha Zou | Multi-scale ionosphere response during geomagnetic storms: Observations, modeling, and machine learning | U Michigan |
 | Feb 8, 2021 | Alex Glocer | Magnetosphere-Ionosphere Coupling | GSFC |
 | Feb 15 |	President's Day | **No Seminar** |
 | Feb 22 | Fran Bagenal | Planetary Magnetospheres | U Colorado |
