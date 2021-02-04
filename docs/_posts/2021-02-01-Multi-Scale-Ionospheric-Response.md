@@ -1,0 +1,20 @@
+---
+title: Multi-scale ionosphere response during geomagnetic storms: Observations, modeling, and machine learning 
+author: Nithin Sivadas
+layout: post
+---
+
+The ionosphere responds to solar wind forcing at multiple scale sizes. Through multi-instrument observations, numerical simulations, and the latest data reconstruction and machine learning techniques, [Dr Shasha Zou][1] discusses her team's research projects designed to improve our understanding of the multi-scale ionospheric response during geomagnetic storms. In this talk, she focuses on two ionospheric phenomena, storm-enhanced densities (SED) and polar cap patches, and explores them using global and local plasma density measurements. In the second part of her talk, she discusses a new project to specify and forecast global ionospheric Total Electron Content (TEC) maps, as part of the SOLSTICE DRIVE Center at the University of Michigan.
+
+SEDs are mid-latitude ionospheric density enhancement during the early phase of a geomagnetic storm. These density enhancements drift into the polar cap region and are called SED plumes. They can get segmented into smaller scales, becoming polar-cap patches. In this talk, Dr Zou asks what forces are acting on the SED plumes, and how they affect its structure and dynamics. Her work reveals that plasma can drift vertically based on the interplay between the convection electric field, thermospheric wind, and ambipolar diffusion. In the SED base-region, the convective ExB forces caused by the penetrating electric field during southward IMF, causes substantial upward lifting of the plasma, resulting in longer lifetimes due to a decrease in recombination rates at higher altitudes. Using GITM simulations, they identified two sources of plasma populations that feed into the SED plume: from the dawn and dusk sectors, which have different peak altitudes and densities. Dr Zou also notes that convection electric fields are more important in the low-latitude and sub-auroral regions during the storm's early main-phase. In contrast, the thermospheric meridional wind plays a vital role at mid-latitudes during the later main-phase of the storm.
+
+Next, she shows observations and simulation results, demonstrating that the SED plumes can become segmented into polar cap patches. Her group finds that segmentation typically occurs in response to variations in the IMF orientation that detach plasma from the sunlit ionosphere and not bursts of precipitation that enhance ionospheric densities: the patches generally do not exhibit the heating expected for precipitation driven events. Nevertheless, she presents an example of a segmented plume attributed to a third mechanism: enhanced boundary flows that reduce ionospheric electron densities via frictional heating and enhanced recombination. This mechanism does not involve transient solar wind changes or soft-electron precipitation [[Wang, Zou, Coppeans, et al., GRL, 2019]][2].
+
+In the second half of her talk, she discusses a machine-learning method to forecast TEC maps, which achieves a root mean square error as low as 1-2 TEC Units. The data source for the forecasting was the Global Ionosphere Map (GIM) provided by the International GNSS Service, which constructs it from ~200-500 GNSS receivers. However, these interpolated maps do not capture mesoscale features. Hence, Dr Zou's team via the SOLSTICE DRIVE Center developed a sophisticated data reconstruction model called VISTA: Video Imputation with SoftImpute, Temporal Smoothing and Auxiliary Data. This model can fill the missing TEC measurements in global TEC maps by guaranteeing spatial smoothness and temporal consistency. Though the project is ongoing, Dr Zou presents some stunning results of reconstructed TEC maps that preserve detailed mesoscale structures.
+
+You can find a recording of Rick's seminar on our [YouTube channel][3].
+
+
+[1]:http://clasp-research.engin.umich.edu/faculty/zou/research.html
+[2]:https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL084041
+[3]:https://www.youtube.com/watch?v=Rl14TRW5Ndw&t=2828s
