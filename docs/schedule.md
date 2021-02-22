@@ -19,7 +19,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Jan 18, 2021 | Martin Luther King Day | **No Seminar** | |
 | Jan 25, 2021 | Rick Chappell | [The Role of the Earth’s Ionosphere in Populating the Magnetosphere and Driving Its Dynamics][32] | Vanderbilt University |
 | Feb 1, 2021 | Shasha Zou | [Multi-scale ionosphere response during geomagnetic storms: Observations, modeling, and machine learning][33] | U Michigan |
-| Feb 8, 2021 | Alex Glocer | Magnetosphere-Ionosphere Coupling | GSFC |
+| Feb 8, 2021 | Alex Glocer | [Modeling Ionospheric Outflow and its Consequences][34] | GSFC |
 | Feb 15 |	President's Day | **No Seminar** |
 | Feb 22 | Fran Bagenal | Planetary Magnetospheres | U Colorado |
 | Mar 1 | Roman Gomez | Top Hat Plasma Instruments | SWRI | 
@@ -109,3 +109,4 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 [31]:https://msolss.github.io/MagSeminars/2021/01/11/MHD-Simulations-at-the-Mesoscale.html
 [32]:https://msolss.github.io/MagSeminars/2021/01/25/The-Ionosphere-and-Magnetosphere-Dynamics.html
 [33]:https://msolss.github.io/MagSeminars/2021/02/01/Multi-Scale-Ionospheric-Response.html
+[34]:https://msolss.github.io/MagSeminars/2021/02/08/Modeling-Ionospheric-Outflow-Consequences.html
