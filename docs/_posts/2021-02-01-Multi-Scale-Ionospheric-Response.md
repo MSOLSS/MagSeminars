@@ -12,7 +12,7 @@ Next, she shows observations and simulation results, demonstrating that the SED 
 
 In the second half of her talk, she discusses a machine-learning method to forecast TEC maps, which achieves a root mean square error as low as 1-2 TEC Units. The data source for the forecasting was the Global Ionosphere Map (GIM) provided by the International GNSS Service, which constructs it from ~200-500 GNSS receivers. However, these interpolated maps do not capture mesoscale features. Hence, Dr Zou's team via the SOLSTICE DRIVE Center developed a sophisticated data reconstruction model called VISTA: Video Imputation with SoftImpute, Temporal Smoothing and Auxiliary Data. This model can fill the missing TEC measurements in global TEC maps by guaranteeing spatial smoothness and temporal consistency. Though the project is ongoing, Dr Zou presents some stunning results of reconstructed TEC maps that preserve detailed mesoscale structures.
 
-You can find a recording of Rick's seminar on our [YouTube channel][3].
+You can find a recording of Dr.Zou's seminar on our [YouTube channel][3].
 
 
 [1]:http://clasp-research.engin.umich.edu/faculty/zou/research.html
