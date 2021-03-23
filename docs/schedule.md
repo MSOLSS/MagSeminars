@@ -18,13 +18,13 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Jan 11, 2021 | John Lyon | [MHD Simulations at the Meso-scale][31] | Dartmouth |
 | Jan 18, 2021 | Martin Luther King Day | **No Seminar** | |
 | Jan 25, 2021 | Rick Chappell | [The Role of the Earth’s Ionosphere in Populating the Magnetosphere and Driving Its Dynamics][32] | Vanderbilt University |
-| Feb 1, 2021 | Shasha Zou | Multi-scale ionosphere response during geomagnetic storms: Observations, modeling, and machine learning | U Michigan |
-| Feb 8, 2021 | Alex Glocer | Magnetosphere-Ionosphere Coupling | GSFC |
+| Feb 1, 2021 | Shasha Zou | [Multi-scale ionosphere response during geomagnetic storms: Observations, modeling, and machine learning][33] | U Michigan |
+| Feb 8, 2021 | Alex Glocer | [Modeling Ionospheric Outflow and its Consequences][34] | GSFC |
 | Feb 15 |	President's Day | **No Seminar** |
-| Feb 22 | Fran Bagenal | Planetary Magnetospheres | U Colorado |
-| Mar 1 | Roman Gomez | Top Hat Plasma Instruments | SWRI | 
-| Mar 8 | Ashley Greeley | Solid State Plasma Instruments | CUA |
-| Mar 15 | Justin Kasper | Faraday Cup Plasma Instruments | U Michigan |
+| Feb 22 | Fran Bagenal | [Planetary Magnetospheres][35] | U Colorado |
+| Mar 1 | Roman Gomez | [Top Hat Plasma Instruments][36] | SWRI | 
+| Mar 8 | Ashley Greeley | [Solid State Plasma Instruments][37] | CUA |
+| Mar 15 | Justin Kasper | [Faraday Cup Plasma Instruments][38] | U Michigan |
 | Mar 22 | Gina DiBraccio | Fluxgate Magnetometers | GSFC |
 | Mar 29 | George Hospodarsky | Search Coil Magnetometers | U Iowa |
 | Apr 5 | John Bonnell | Electric Fields | UCB SSL |
@@ -108,3 +108,9 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 [30]:https://msolss.github.io/MagSeminars/2020/11/30/Diagnosing-Geospace-with-Ground-Magnetometers.html
 [31]:https://msolss.github.io/MagSeminars/2021/01/11/MHD-Simulations-at-the-Mesoscale.html
 [32]:https://msolss.github.io/MagSeminars/2021/01/25/The-Ionosphere-and-Magnetosphere-Dynamics.html
+[33]:https://msolss.github.io/MagSeminars/2021/02/01/Multi-Scale-Ionospheric-Response.html
+[34]:https://msolss.github.io/MagSeminars/2021/02/08/Modeling-Ionospheric-Outflow-Consequences.html
+[35]:https://msolss.github.io/MagSeminars/2021/02/22/Planetary-Magnetospheres.html
+[36]:https://msolss.github.io/MagSeminars/2021/03/01/Top-Hat-Plasma-Instruments.html
+[37]:https://msolss.github.io/MagSeminars/2021/03/08/Solid-State-Detectors.html
+[38]:https://msolss.github.io/MagSeminars/2021/03/15/Faraday-Cup.html
