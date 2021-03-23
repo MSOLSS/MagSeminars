@@ -1,5 +1,5 @@
 ---
-title: Multi-scale ionosphere response during geomagnetic storms: Observations, modeling, and machine learning 
+title: Multi-scale ionosphere response during geomagnetic storms - Observations, modeling, and machine learning 
 author: Nithin Sivadas
 layout: post
 ---
