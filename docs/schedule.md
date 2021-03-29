@@ -27,7 +27,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Mar 15 | Justin Kasper | Faraday Cup Plasma Instruments | U Michigan |
 | Mar 22 | Gina DiBraccio | Fluxgate Magnetometers | GSFC |
 | Mar 29 | George Hospodarsky | Search Coil Magnetometers | U Iowa |
-| Apr 5 | John Bonnell | Electric Fields | UCB SSL |
+| Apr 5 | No Seminar | No Seminar |  |
 | Apr 12 | **Easter Monday**   | **No Seminar** |
 | Apr 19 | Harald Frey  | Optical Instruments | UCB |
 | Apr 26 | *TBD*  | *TBD* |
