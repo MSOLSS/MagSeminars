@@ -57,13 +57,13 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-zoom_url: https://umd.zoom.us/j/97048233531
-
+zoom_url: https://umd.zoom.us/j/95658824313
+          
 #YouTube
-youtube_stream: https://youtu.be/Jxb8MQmhFV0
+youtube_stream: https://youtu.be/pXf8Qy83u-I
 
 #Next seminar, date, speaker, title
-seminar: In our next seminar, January 25 at 1200 EDST (1600 UT), Rick Chappell will be discussing The Role of the Earth’s Ionosphere in Populating the Magnetosphere and Driving Its Dynamics.
+seminar: In our next seminar, March 22 at 1200 EDST, George Hospodarsky will be discussing Search Coil Magnetometers.
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
