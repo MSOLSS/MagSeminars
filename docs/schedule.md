@@ -21,11 +21,11 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Feb 1, 2021 | Shasha Zou | [Multi-scale ionosphere response during geomagnetic storms: Observations, modeling, and machine learning][33] | U Michigan |
 | Feb 8, 2021 | Alex Glocer | [Modeling Ionospheric Outflow and its Consequences][34] | GSFC |
 | Feb 15 |	President's Day | **No Seminar** |
-| Feb 22 | Fran Bagenal | Planetary Magnetospheres | U Colorado |
-| Mar 1 | Roman Gomez | Top Hat Plasma Instruments | SWRI | 
-| Mar 8 | Ashley Greeley | An Experimentalist’s Approach to Solid State Detectors | CUA |
-| Mar 15 | Justin Kasper | Faraday Cup Plasma Instruments | U Michigan |
-| Mar 22 | Gina DiBraccio | Fluxgate Magnetometers for Space Exploration | GSFC |
+| Feb 22 | Fran Bagenal | [Planetary Magnetospheres][35] | U Colorado |
+| Mar 1 | Roman Gomez | [Top Hat Plasma Instruments][36] | SWRI | 
+| Mar 8 | Ashley Greeley | [Solid State Plasma Instruments][37] | CUA |
+| Mar 15 | Justin Kasper | [Faraday Cup Plasma Instruments][38] | U Michigan |
+| Mar 22 | Gina DiBraccio | Fluxgate Magnetometers | GSFC |
 | Mar 29 | George Hospodarsky | Search Coil Magnetometers | U Iowa |
 | Apr 5 | No Seminar | No Seminar |  |
 | Apr 12 | **Easter Monday**   | **No Seminar** |
@@ -110,3 +110,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 [32]:https://msolss.github.io/MagSeminars/2021/01/25/The-Ionosphere-and-Magnetosphere-Dynamics.html
 [33]:https://msolss.github.io/MagSeminars/2021/02/01/Multi-Scale-Ionospheric-Response.html
 [34]:https://msolss.github.io/MagSeminars/2021/02/08/Modeling-Ionospheric-Outflow-Consequences.html
+[35]:https://msolss.github.io/MagSeminars/2021/02/22/Planetary-Magnetospheres.html
+[36]:https://msolss.github.io/MagSeminars/2021/03/01/Top-Hat-Plasma-Instruments.html
+[37]:https://msolss.github.io/MagSeminars/2021/03/08/Solid-State-Detectors.html
+[38]:https://msolss.github.io/MagSeminars/2021/03/15/Faraday-Cup.html
