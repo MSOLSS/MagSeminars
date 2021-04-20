@@ -30,8 +30,8 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Apr 5 | No Seminar | No Seminar |  |
 | Apr 12 | **Easter Monday**   | **No Seminar** |
 | Apr 19 | Harald Frey  | Optical Instruments | UCB |
-| Apr 26 | Per-Arne Lindqvist  | KTH |
-| May 3 | Emma Bland  | SuperDARN | The University Centre in Svalbard |
+| Apr 26 | Per-Arne Lindqvist  | Electric Fields | KTH |
+| May 3 | Emma Bland  | The Super Dual Auroral Radar Network (SuperDARN) | The University Centre in Svalbard |
 | May 10 | Brian Walsh  | Soft X-Rays in The Magnetosphere | BU |
 
 <h2><a id="2020">2020</a></h2>
