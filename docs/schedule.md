@@ -33,6 +33,17 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Apr 26 | Per-Arne Lindqvist  | Electric Field Instruments | KTH |
 | May 3 | Emma Bland  | The Super Dual Auroral Radar Network (SuperDARN) | The University Centre in Svalbard |
 | May 10 | Brian Walsh  | Soft X-Rays in The Magnetosphere | BU |
+| May 17 | Jacob Bortnik | Machine Learning in Magnetospheric Physics | UCLA |
+| May 24 | Chris Balch | Space Weather at NOAA | NOAA |
+| May 31 | **Holiday** | **No Seminar** |
+| June 7 | Yihua Zheng | The CCMC | GSFC |
+| June 14 | David Jackson | Space Weather the Met Office | Met Office |
+| June 21 | Steve Morley | Metrics and Validation | LANL |
+| June 28 | Dan Welling | End-to-End Modelling | UTA
+| July 5 | **Holiday** | **No Seminar** |
+| July 12 | Jordan Buerra Aguilera | Ensemble Modelling | Villinova | 
+| July 19 | Janet Green | Space Weather Effects | Space Hazards Applications |
+| July 26 | **GEM** | **No Seminar** |
 
 <h2><a id="2020">2020</a></h2>
 
