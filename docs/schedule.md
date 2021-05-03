@@ -25,7 +25,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Mar 1 | Roman Gomez | [Top Hat Plasma Instruments][36] | SWRI | 
 | Mar 8 | Ashley Greeley | [Solid State Plasma Instruments][37] | CUA |
 | Mar 15 | Justin Kasper | [Faraday Cup Plasma Instruments][38] | U Michigan |
-| Mar 22 | Gina DiBraccio | Fluxgate Magnetometers | GSFC |
+| Mar 22 | Gina DiBraccio | [Fluxgate Magnetometers][39] | GSFC |
 | Mar 29 | George Hospodarsky | Search Coil Magnetometers | U Iowa |
 | Apr 5 | No Seminar | No Seminar |  |
 | Apr 12 | **Easter Monday**   | **No Seminar** |
@@ -125,3 +125,4 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 [36]:https://msolss.github.io/MagSeminars/2021/03/01/Top-Hat-Plasma-Instruments.html
 [37]:https://msolss.github.io/MagSeminars/2021/03/08/Solid-State-Detectors.html
 [38]:https://msolss.github.io/MagSeminars/2021/03/15/Faraday-Cup.html
+[39]:https://msolss.github.io/MagSeminars/2021/03/22/Flux-Gate-Magnetometers.html
