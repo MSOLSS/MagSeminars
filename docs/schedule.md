@@ -34,7 +34,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | May 3 | Emma Bland  | The Super Dual Auroral Radar Network (SuperDARN) | The University Centre in Svalbard |
 | May 10 | Brian Walsh  | Soft X-Rays in The Magnetosphere | BU |
 | May 17 | Jacob Bortnik | Machine Learning in Magnetospheric Physics | UCLA |
-| May 24 | Chris Balch | Space Weather at NOAA | NOAA |
+| May 24 | Chris Balch | NOAA's Regional Geoelectric Field Modeling Project - Mitigating Space Weather Impacts on the Power Grid | NOAA |
 | May 31 | **Holiday** | **No Seminar** |
 | June 7 | Yihua Zheng | The CCMC | GSFC |
 | June 14 | David Jackson | Space Weather the Met Office | Met Office |
