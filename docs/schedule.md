@@ -38,7 +38,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | May 31 | **Holiday** | **No Seminar** |
 | June 7 | Yihua Zheng | Space weather capabilities/resources at CCMC | GSFC |
 | June 14 | David Jackson | Space weather at the Met Office | Met Office |
-| June 21 | Steve Morley | Metrics and Validation | LANL |
+| June 21 | Steve Morley | Metrics, Validation and Uncertainty | LANL |
 | June 28 | Dan Welling | End-to-End Modelling | UTA
 | July 5 | **Holiday** | **No Seminar** |
 | July 12 | Jordan Buerra Aguilera | Ensemble Modelling | Villinova | 
