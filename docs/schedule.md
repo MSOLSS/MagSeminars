@@ -42,7 +42,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | June 28 | Dan Welling | End to End Modeling for Space Weather Applications | UTA
 | July 5 | **Holiday** | **No Seminar** |
 | July 12 | Jordan Guerra Aguilera | Ensemble Forecasting in Space Weather | Villinova | 
-| July 19 | Janet Green | Space Weather Effects | Space Hazards Applications |
+| July 19 | Janet Green | The space radiation environment and its impacts on satellites | Space Hazards Applications |
 | July 26 | **GEM** | **No Seminar** |
 
 <h2><a id="2020">2020</a></h2>
