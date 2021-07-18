@@ -44,6 +44,15 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | July 12 | Jordan Guerra Aguilera | Ensemble Forecasting in Space Weather | Villinova | 
 | July 19 | Janet Green | The space radiation environment and its impacts on satellites | Space Hazards Applications |
 | July 26 | **GEM** | **No Seminar** |
+| July 26 | **GEM** | **No Seminar** |
+| August 2, 2021 | **Summer Break** | **No Seminar** |
+| August 9, 2021 | **Summer Break** | **No Seminar** |
+| August 16, 2021 | Thomas Elsden | ULF Waves |
+| August 23, 2021 | Hayle Allison | VLF Waves | 
+| August 30, 2021 | Maria Usanova | EMIC Waves |
+| September 6, 2021 | **Labor Day** | **No Seminar** |
+| September 13, 2021 | | |
+| September 20, 2021 | Jean-fracois Rippol | Radiation Belts |
 
 <h2><a id="2020">2020</a></h2>
 
