@@ -60,10 +60,10 @@ dribbble_url:
 zoom_url: https://umd.zoom.us/j/95658824313
 
 #YouTube
-youtube_stream: https://youtu.be/3khnkBVXQ04
+youtube_stream: https://msolss.github.io/MagSeminars/
 
 #Next seminar, date, speaker, title
-seminar: Our Next Seminar is Monday July 19, Janet Green will be discussing The space radiation environment and its impacts on satellites.
+seminar: Our Next Seminar is Monday Aug 16, Thomas Elsden will be discussing ULF Waves
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
