@@ -47,7 +47,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Aug 2, 2021 | **Summer Break** | **No Seminar** |
 | Aug 9, 2021 | **Summer Break** | **No Seminar** |
 | Aug 16, 2021 | Thomas Elsden | ULF Waves | U. Leicester |
-| Aug 23, 2021 | Hayle Allison | VLF Waves | GFZ |
+| Aug 23, 2021 | Hayley Allison | VLF Waves | GFZ |
 | Aug 30, 2021 | Maria Usanova | EMIC Waves | LASP |
 | Sept 6, 2021 | **Labor Day** | **No Seminar** |
 | Sept 13, 2021 | Lauren Blum | Particle Precipitation | U. Colorado |
