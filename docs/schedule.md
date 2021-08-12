@@ -52,7 +52,8 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Sept 6, 2021 | **Labor Day** | **No Seminar** |
 | Sept 13, 2021 | | |
 | Sept 20, 2021 | Jean-Francois Rippol | Radiation Belt Modelling | CEA |
-| Sept 27, 2021 | Stephen Milan | Solar Wind-Magnetosphere Coupling | U Leicester |
+| Sept 27, 2021 | Stephen Milan | Solar Wind-Magnetosphere Coupling | U. Leicester |
+| Oct, 4, 2021 | Jasper Halekas | Plasma Physics at the Moon | U. Iowa |
 
 <h2><a id="2020">2020</a></h2>
 
