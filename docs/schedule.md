@@ -53,6 +53,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Sept 13, 2021 | Lauren Blum | Particle Precipitation | U. Colorado |
 | Sept 20, 2021 | Jean-fracois Rippol | Radiation Belts | CEA |
 | Sept 27, 2021 | Steve Milan | Solar Wind Magnetosphere Coupling | U. Leicester |
+| Oct 4, 2021 | Jasper Halekas | Plasma Physics at the Moon | U. Iowa |
 
 <h2><a id="2020">2020</a></h2>
 
