@@ -5,9 +5,3 @@ Gemfile.lock
 /.vs
 .vs/MagSeminars/v15/.suo
 .vs/slnx.sqlite
-
-
-.vs/MagSeminars/v15/.suo
-*.sqlite
-docs/schedule.md
-.vs/MagSeminars/v15/.suo

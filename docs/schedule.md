@@ -50,10 +50,9 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Aug 23, 2021 | Hayley Allison | VLF Waves | GFZ |
 | Aug 30, 2021 | Maria Usanova | EMIC Waves | LASP |
 | Sept 6, 2021 | **Labor Day** | **No Seminar** |
-| Sept 13, 2021 | | |
-| Sept 20, 2021 | Jean-Francois Rippol | Radiation Belt Modelling | CEA |
-| Sept 27, 2021 | Stephen Milan | Solar Wind-Magnetosphere Coupling | U. Leicester |
-| Oct, 4, 2021 | Jasper Halekas | Plasma Physics at the Moon | U. Iowa |
+| Sept 13, 2021 | Lauren Blum | Particle Precipitation | U. Colorado |
+| Sept 20, 2021 | Jean-fracois Rippol | Radiation Belts | CEA |
+| Sept 27, 2021 | Steve Milan | Solar Wind Magnetosphere Coupling | U. Leicester |
 
 <h2><a id="2020">2020</a></h2>
 
