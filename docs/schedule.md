@@ -54,6 +54,19 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Sept 20, 2021 | Jean-Francois Ripoll | Earth’s Radiation Belt Dynamics: Observations and Simulations | CEA |
 | Sept 27, 2021 | Steve Milan | Solar Wind Magnetosphere Coupling | U. Leicester |
 | Oct 4, 2021 | Jasper Halekas | Plasma Physics at the Moon | U. Iowa |
+| Oct 11, 2021 | **Columbus Day/Thanks Giving** | **No Seminar** |
+| Oct 18, 2021 | Jeffery Love | The May 1921 magnetic superstorm | USGS |
+| Oct 25, 2021 | Mathew Owens | Extreme Space Weather| U. Reading |
+| Nov 1, 2021 | AI/Machine Learning Panel | | |
+| Nov 8, 2021 | Ying Zou | Dayside Reconnection and Plumes | UAH | 
+| Nov 15, 2021 | Fredrick Wilder | Reconnection and KHI | UTA |
+| Nov 22, 2021 | Minna Palmroth | Modelling Dayside Reconnection | U. Helsinki | 
+| Nov 29, 2021 |
+| Dec 6, 2021 | 
+| Dec 13, 2021 | **AGU** | **No Seminar** |
+| Dec 20, 2021 | **Winter Break** | **No Seminar** |
+| Dec 27, 2021 | **Winter Break** | **No Seminar** |
+| Jan 3, 2021 | **Winter Break** | **No Seminar** |
 
 <h2><a id="2020">2020</a></h2>
 
