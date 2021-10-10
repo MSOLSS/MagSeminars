@@ -57,13 +57,13 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-zoom_url: https://umd.zoom.us/j/95658824313
+zoom_url: https://youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 #YouTube
-youtube_stream: https://youtu.be/knbdCjL8ct8
+youtube_stream: https://youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 #Next seminar, date, speaker, title
-seminar: Our Next Seminar is Monday October 4, Jasper Halekas will be discussing Plasma Physics at the Moon
+seminar: Our Next Seminar is Monday October 18, Jasper Halekas will be discussing the The May 1921 magnetic superstorm
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
