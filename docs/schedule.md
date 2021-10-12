@@ -61,7 +61,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Nov 8, 2021 | Ying Zou | Dayside Reconnection and Plumes | UAH | 
 | Nov 15, 2021 | Fredrick Wilder | Reconnection and KHI | UTA |
 | Nov 22, 2021 | Minna Palmroth | Modelling Dayside Reconnection | U. Helsinki | 
-| Nov 29, 2021 |
+| Nov 29, 2021 | Surja Sharma | Data-driven Modeling of the magnetosphere: The Complex Systems Perspective | UMD |
 | Dec 6, 2021 | 
 | Dec 13, 2021 | **AGU** | **No Seminar** |
 | Dec 20, 2021 | **Winter Break** | **No Seminar** |
