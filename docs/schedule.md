@@ -56,7 +56,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Oct 4, 2021 | Jasper Halekas | Plasma Physics at the Moon | U. Iowa |
 | Oct 11, 2021 | **Columbus Day/Thanks Giving** | **No Seminar** |
 | Oct 18, 2021 | Jeffery Love | The May 1921 magnetic superstorm | USGS |
-| Oct 25, 2021 | Mathew Owens | Extreme Space Weather| U. Reading |
+| Oct 25, 2021 | Mathew Owens | Extreme Space Weather and the Solar Cycle | U. Reading |
 | Nov 1, 2021 | AI/Machine Learning Panel | | |
 | Nov 8, 2021 | Ying Zou | Dayside Reconnection and Plumes | UAH | 
 | Nov 15, 2021 | Fredrick Wilder | Reconnection and KHI | UTA |
