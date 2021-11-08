@@ -59,7 +59,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Oct 25, 2021 | Mathew Owens | Extreme Space Weather and the Solar Cycle | U. Reading |
 | Nov 1, 2021 | AI/Machine Learning Panel | | |
 | Nov 8, 2021 | Ying Zou | Unsteady Magnetopause Reconnection Under Quasi-Steady Solar Wind Driving | UAH | 
-| Nov 15, 2021 | Fredrick Wilder | Reconnection and KHI | UTA |
+| Nov 15, 2021 | Fredrick Wilder | The Kelvin-Helmholtz Instsability at Earth: Reconnection, Turbulence and Ion Acoustic Waves | UTA |
 | Nov 22, 2021 | Minna Palmroth | Modelling Dayside Reconnection | U. Helsinki | 
 | Nov 29, 2021 | Surja Sharma | Data-driven Modeling of the magnetosphere: The Complex Systems Perspective | UMD |
 | Dec 6, 2021 | 
