@@ -60,7 +60,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 | Nov 1, 2021 | AI/Machine Learning Panel | | |
 | Nov 8, 2021 | Ying Zou | Unsteady Magnetopause Reconnection Under Quasi-Steady Solar Wind Driving | UAH | 
 | Nov 15, 2021 | Fredrick Wilder | The Kelvin-Helmholtz Instsability at Earth: Reconnection, Turbulence and Ion Acoustic Waves | UTA |
-| Nov 22, 2021 | Minna Palmroth | Modelling Dayside Reconnection | U. Helsinki | 
+| Nov 22, 2021 | Minna Palmroth | Vlasiator: Global ion-kinetic modelling of the near-Earth space in 6D | U. Helsinki | 
 | Nov 29, 2021 | Surja Sharma | Data-driven Modeling of the magnetosphere: The Complex Systems Perspective | UMD |
 | Dec 6, 2021 | 
 | Dec 13, 2021 | **AGU** | **No Seminar** |
