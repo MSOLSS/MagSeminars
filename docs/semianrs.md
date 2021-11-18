@@ -1,7 +1,7 @@
 ---
 title: Speakers and Seminars
 layout: "page"
-icon: fa-calendar-altfa-user-astronaut
+icon: fa-user-astronaut
 order: 3
 ---
 
@@ -29,7 +29,7 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 {% for row in file %}
   <tr>
   <td> {{ row.date }} </td>
-  <td> {{ row.speaker }}</td>
+  <td> <a href="{{row.link}}"> {{ row.speaker }} </a></td>
   <td> {{ row.title }} </td>
   <td> {{ row.institution }} </td>
   </tr>
