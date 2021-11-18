@@ -1,11 +1,9 @@
 ---
-title: Speakers and Seminars
+title: Past Speakers and Seminars
 layout: "page"
 icon: fa-user-astronaut
 order: 3
 ---
-
-Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated below.
 
 Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>. 
 
@@ -19,8 +17,6 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 <th>Speaker</th>
 <th>Seminar</th>
 <th>Institution</th>
-
-</tr>
 </thead>
 <tbody>
 
@@ -29,8 +25,36 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 {% for row in file %}
   <tr>
   <td> {{ row.date }} </td>
-  <td> <a href="{{row.link}}"> {{ row.speaker }} </a></td>
-  <td> {{ row.title }} </td>
+  <td> {{ row.speaker }} </td>
+  <td> <a href="{{row.link}}"> {{ row.title }} </a> </td>
+  <td> {{ row.institution }} </td>
+  </tr>
+{% endfor %}
+</tbody>
+</table>
+
+</div>
+
+<h2><a id="2020">2020</a></h2>
+
+<div style="height:100%; width:90%; overflow:auto;">
+
+<table>
+<thead>
+<th>Date</th>
+<th>Speaker</th>
+<th>Seminar</th>
+<th>Institution</th>
+</thead>
+<tbody>
+
+{% assign file = site.data.2020 %}
+
+{% for row in file %}
+  <tr>
+  <td> {{ row.date }} </td>
+  <td> {{ row.speaker }} </td>
+  <td> <a href="{{row.link}}"> {{ row.title }} </a> </td>
   <td> {{ row.institution }} </td>
   </tr>
 {% endfor %}
