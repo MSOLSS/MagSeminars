@@ -17,7 +17,7 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Nov 15, 2021 | Fredrick Wilder | The Kelvin-Helmholtz Instability at Earth: Reconnection, Turbulence and Ion Acoustic Waves | UTA |
 | Nov 22, 2021 | Minna Palmroth | Vlasiator: Global ion-kinetic modelling of the near-Earth space in 6D | U. Helsinki | 
 | Nov 29, 2021 | Surja Sharma | Data-driven Modeling of the magnetosphere: The Complex Systems Perspective | UMD |
-| Dec 6, 2021 | 
+| Dec 6, 2021 | **AGU Lead Up** | **No Seminar** |
 | Dec 13, 2021 | **AGU** | **No Seminar** |
 | Dec 20, 2021 | **Winter Break** | **No Seminar** |
 | Dec 27, 2021 | **Winter Break** | **No Seminar** |
