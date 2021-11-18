@@ -11,15 +11,14 @@ Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>.
 
 <h2><a id="2021">2021</a></h2>
 
-<div class="display compact" style="height:100%; width:90%; font-size:	16px; overflow:auto;">
+<div style="height:100%; width:90%; overflow:auto;">
 
-<table id="catalogue" class="display">
+<table>
 <thead>
-<tr class="header">
-<th style="font-size: 16px" data-sort>Date</th>
-<th style="font-size: 16px">Speaker</th>
-<th style="font-size: 16px">Seminar</th>
-<th style="font-size: 16px">Institution</th>
+<th>Date</th>
+<th>Speaker</th>
+<th>Seminar</th>
+<th>Institution</th>
 
 </tr>
 </thead>
