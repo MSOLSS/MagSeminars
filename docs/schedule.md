@@ -7,7 +7,6 @@ order: 2
 
 Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated below.
 
-<br>
 <a href="seminars" class="icon fa-user-astronaut"><span class="label">Speakers</span> Previous speakers and their talks.</a>
 <br>
 
@@ -22,4 +21,3 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 | Dec 20, 2021 | **Winter Break** | **No Seminar** |
 | Dec 27, 2021 | **Winter Break** | **No Seminar** |
 | Jan 3, 2021 | **Winter Break** | **No Seminar** |
-
