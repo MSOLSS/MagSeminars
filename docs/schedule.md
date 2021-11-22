@@ -5,7 +5,7 @@ icon: fa-calendar-alt
 order: 2
 ---
 
-Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated below.
+Seminars are held every Monday at 1200 Noon Easter unless otherwise stated below.
 
 <a href="seminars" class="icon fa-user-astronaut"><span class="label">Speakers</span> Previous speakers and their talks.</a>
 <br>
