@@ -5,7 +5,7 @@ icon: fa-calendar-alt
 order: 2
 ---
 
-Seminars are held every Monday at 1200 Noon Easter unless otherwise stated below.
+Seminars are held every Monday at 1200 Noon Eastern unless otherwise stated below.
 
 <a href="seminars" class="icon fa-user-astronaut"><span class="label">Speakers</span> Previous speakers and their talks.</a>
 <br>
@@ -20,4 +20,3 @@ Seminars are held every Monday at 1200 Noon Easter unless otherwise stated below
 | Dec 13, 2021 | **AGU** | **No Seminar** |
 | Dec 20, 2021 | **Winter Break** | **No Seminar** |
 | Dec 27, 2021 | **Winter Break** | **No Seminar** |
-| Jan 3, 2021 | **Winter Break** | **No Seminar** |
