@@ -1,30 +1,30 @@
 date,speaker,title,institution,link
-April 27 2020,Joe Borovsky,The Magnetosphere as a System,Space Science,https://youtu.be/fXdhy7M4nzc
-May 4 2020,Lynn Wilson,Solar Wind,GSFC,https://youtu.be/YsvVPgcyJ4w
-May 11 2020,Heli Hietala ,The Bowshock and Foreshock,Imperial College London,https://youtu.be/pIs75HVm2Bk
-May 18 2020,Ferdinand Plaschke,The Magnetosheath,SRI, Graz,https://youtu.be/DdurZ5dbTQo
-June 1 2020,Ying Zou,The Magnetopause,U. A. Huntsville,https://youtu.be/OW52paiLCWA
-June 8 2020,Stephen Fuselier,Oxygen at the Dayside Magnetopause and Outer Magnetosphere,SwRI,https://youtu.be/LhyJUyr-wlk
-June 15 2020,Benoit Lavraud,The Earth's Magnetospheric Cusps,IRAP,https://youtu.be/itdygdazs60
-June 15 2020,Elsayed Talaat,Space Weather Follow On,NOAA,https://youtu.be/KDk4RYiMCOQ
-June 22 2020,Takuma Nakamura,The Low Latitude Boundary Layer,SRI, Graz,https://youtu.be/qO8B9jBT5MI
-June 29 2020,Ramon Lopez,Magnetospheric Currents,UT at Arlington,https://youtu.be/su3FfXN9rn4
-July 6 2020,Eric Grimes,pySPEDAS and SPEDAS,UCLA,https://youtu.be/zA45g7KzCOA
-July 13 2020,Hermann Luehr,Magnetospheric field-aligned currents: Their signatures in the ionosphere,GFZ,https://youtu.be/SUfw8Kf9DP8
-July 20 2020,Bill Peterson,Ionospheric Outflow: Observational Constraints on Global Models,LASP,https://youtu.be/1DVB0fbkML4
-July 27 2020,Weichao Tu,Precipitation of Energetic Particles from the Inner Magnetosphere,WVU,https://youtu.be/3Mp1xJHPq38
-Aug 3 2020,Clare Watt,Auroral Acceleration Mechanisms and how they relate to the Magnetospheric Substorm,Northumbria University,https://youtu.be/gG0FEGy_80o
-Aug 10 2020,Eric Donovan,Proton Aurora,UofC,https://youtu.be/tlwH0rv6GNk
-Aug 17 2020,Liz McDonald,STEVE - a subauroral phenomena,GSFC,https://youtu.be/m5tOrvDfmPw
-Aug 24 2020,Christine Gabrielse,Convection and Substorms,Aerospace,https://youtu.be/-te8hzUOVxc
-Aug 31 2020,Joachim Birn,The dynamic magnetotail: Substorms,Space Science Institute,https://youtu.be/_NXVmJL2-vA
-Sept 14 2020,Drew Turner,The Radiation Belts,APL,https://youtu.be/JWVOnfJw40M
-Sept 21 2020,Vania Jordanova,The Ring Current,LANL,https://youtu.be/dTWctVDQc38
-Oct 5 2020,Angeline Burrell,Python in Space Physics,NRL,https://youtu.be/Twxdkxl1fjA
-Oct 19 2020,Jim Drake,Magnetic reconnection and the structure of the magnetopause,UMD,https://youtu.be/Q2t3Fu6zI7w
-Oct 26 2020,Jimmy Raeder,Global MHD,UNH,https://youtu.be/aJimPPT89jw
-Nov 2 2020,Yu Lin,Global Hybrid Modeling,Auburn University,https://youtu.be/ID-YllhiLUU
-Nov 9 2020,Adam Kellerman,Data Assimilation,UCLA,https://youtu.be/wN9GCv08IyE
-Nov 16 2020,Sarah Vines,Multi-point Observations,APL,https://youtu.be/ziwowMPz4YA
-Nov 23 2020,Jim LaBelle,Auroral Electromagnetic Waves & Radiation,Dartmouth,https://youtu.be/Hg8m21aGHBo
-Nov 30 2020,Ian Mann,Diagnosing Geospace Dynamics with Magnetometer Arrays,UofA,https://youtu.be/h6lL-RUql1E
+April 27,Joe Borovsky,The Magnetosphere as a System,Space Science,https://youtu.be/fXdhy7M4nzc
+May 4,Lynn Wilson,Solar Wind,GSFC,https://youtu.be/YsvVPgcyJ4w
+May 11,Heli Hietala ,The Bowshock and Foreshock,Imperial College London,https://youtu.be/pIs75HVm2Bk
+May 18,Ferdinand Plaschke,The Magnetosheath,SRI, Graz,https://youtu.be/DdurZ5dbTQo
+June 1,Ying Zou,The Magnetopause,U. A. Huntsville,https://youtu.be/OW52paiLCWA
+June 8,Stephen Fuselier,Oxygen at the Dayside Magnetopause and Outer Magnetosphere,SwRI,https://youtu.be/LhyJUyr-wlk
+June 15,Benoit Lavraud,The Earth's Magnetospheric Cusps,IRAP,https://youtu.be/itdygdazs60
+June 15,Elsayed Talaat,Space Weather Follow On,NOAA,https://youtu.be/KDk4RYiMCOQ
+June 22,Takuma Nakamura,The Low Latitude Boundary Layer,SRI, Graz,https://youtu.be/qO8B9jBT5MI
+June 29,Ramon Lopez,Magnetospheric Currents,UT at Arlington,https://youtu.be/su3FfXN9rn4
+July 6,Eric Grimes,pySPEDAS and SPEDAS,UCLA,https://youtu.be/zA45g7KzCOA
+July 13,Hermann Luehr,Magnetospheric field-aligned currents: Their signatures in the ionosphere,GFZ,https://youtu.be/SUfw8Kf9DP8
+July 20,Bill Peterson,Ionospheric Outflow: Observational Constraints on Global Models,LASP,https://youtu.be/1DVB0fbkML4
+July 27,Weichao Tu,Precipitation of Energetic Particles from the Inner Magnetosphere,WVU,https://youtu.be/3Mp1xJHPq38
+Aug 3,Clare Watt,Auroral Acceleration Mechanisms and how they relate to the Magnetospheric Substorm,Northumbria University,https://youtu.be/gG0FEGy_80o
+Aug 10,Eric Donovan,Proton Aurora,UofC,https://youtu.be/tlwH0rv6GNk
+Aug 17,Liz McDonald,STEVE - a subauroral phenomena,GSFC,https://youtu.be/m5tOrvDfmPw
+Aug 24,Christine Gabrielse,Convection and Substorms,Aerospace,https://youtu.be/-te8hzUOVxc
+Aug 31,Joachim Birn,The dynamic magnetotail: Substorms,Space Science Institute,https://youtu.be/_NXVmJL2-vA
+Sept 14,Drew Turner,The Radiation Belts,APL,https://youtu.be/JWVOnfJw40M
+Sept 21,Vania Jordanova,The Ring Current,LANL,https://youtu.be/dTWctVDQc38
+Oct 5,Angeline Burrell,Python in Space Physics,NRL,https://youtu.be/Twxdkxl1fjA
+Oct 19,Jim Drake,Magnetic reconnection and the structure of the magnetopause,UMD,https://youtu.be/Q2t3Fu6zI7w
+Oct 26,Jimmy Raeder,Global MHD,UNH,https://youtu.be/aJimPPT89jw
+Nov 2,Yu Lin,Global Hybrid Modeling,Auburn University,https://youtu.be/ID-YllhiLUU
+Nov 9,Adam Kellerman,Data Assimilation,UCLA,https://youtu.be/wN9GCv08IyE
+Nov 16,Sarah Vines,Multi-point Observations,APL,https://youtu.be/ziwowMPz4YA
+Nov 23,Jim LaBelle,Auroral Electromagnetic Waves & Radiation,Dartmouth,https://youtu.be/Hg8m21aGHBo
+Nov 30,Ian Mann,Diagnosing Geospace Dynamics with Magnetometer Arrays,UofA,https://youtu.be/h6lL-RUql1E

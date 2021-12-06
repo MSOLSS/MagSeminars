@@ -1,8 +1,8 @@
 date,speaker,title,institution,link
-Jan 11 2021,John Lyon ,MHD Simulations at the Meso-scale ,Dartmouth,https://youtu.be/Am6IppOIzKo
-Jan 25 2021,Rick Chappell ,The Role of the Earth’s Ionosphere in Populating the Magnetosphere and Driving Its Dynamics,Vanderbilt University,https://youtu.be/MBrjXYQ9Zqc
-Feb 1 2021,Shasha Zou ,Multi-scale ionosphere response during geomagnetic storms: Observations,modeling,and machine learning,U Michigan,https://youtu.be/VYJm5QTXXDs
-Feb 8 2021,Alex Glocer ,Modeling Ionospheric Outflow and its Consequences,GSFC,https://youtu.be/G2MKxX3DUQE
+Jan 11,John Lyon ,MHD Simulations at the Meso-scale ,Dartmouth,https://youtu.be/Am6IppOIzKo
+Jan 25,Rick Chappell ,The Role of the Earth’s Ionosphere in Populating the Magnetosphere and Driving Its Dynamics,Vanderbilt University,https://youtu.be/MBrjXYQ9Zqc
+Feb 1,Shasha Zou ,Multi-scale ionosphere response during geomagnetic storms: Observations,modeling,and machine learning,U Michigan,https://youtu.be/VYJm5QTXXDs
+Feb 8,Alex Glocer ,Modeling Ionospheric Outflow and its Consequences,GSFC,https://youtu.be/G2MKxX3DUQE
 Feb 22,Fran Bagenal,Planetary Magnetospheres,U Colorado,https://youtu.be/AJz5gIQwats
 Mar 1,Roman Gomez,Top Hat Plasma Instruments,SWRI,https://youtu.be/hRCR-TDcGJc 
 Mar 8,Ashley Greeley,Solid State Plasma Instruments,CUA,https://youtu.be/t7mymenxwtA
@@ -21,17 +21,17 @@ June 21,Steve Morley,Metrics,Validation and Uncertainty,LANL,https://youtu.be/u_
 June 28,Dan Welling,End to End Modeling for Space Weather Applications,UTA,https://youtu.be/CkqU0Bp0eIg
 July 12,Jordan Guerra Aguilera,Ensemble Forecasting in Space Weather,Villinova,https://youtu.be/QabNzh83R6c
 July 19,Janet Green,The space radiation environment and its impacts on satellites,Space Hazards Applications,https://youtu.be/3khnkBVXQ04
-Aug 16,2021,Thomas Elsden,ULF Waves,U. Leicester,https://youtu.be/hp-VedV-6eU
-Aug 23,2021,Hayley Allison,VLF Waves,GFZ,https://youtu.be/n9NF_uod7EY
-Aug 30,2021,Maria Usanova,EMIC Waves,LASP,https://youtu.be/n9NF_uod7EY
-Sept 13,2021,Lauren Blum,Energetic Particle Precipitation,U. Colorado,https://youtu.be/f8WGTitJQxA
-Sept 20,2021,Jean-Francois Ripoll,Earth’s Radiation Belt Dynamics: Observations and Simulations,CEA,https://youtu.be/f3lJ-6QIYK4
-Sept 27,2021,Steve Milan,Solar Wind Magnetosphere Coupling,U. Leicester,https://youtu.be/oOQfrvutzK4
-Oct 4 2021,Jasper Halekas,Plasma Physics at the Moon,U. Iowa,https://youtu.be/knbdCjL8ct8
-Oct 18 2021,Jeffrey Love,The May 1921 magnetic superstorm,USGS,https://youtu.be/ut9BuqFSyzk
-Oct 25 2021,Mathew Owens,Extreme Space Weather and the Solar Cycle,U. Reading,https://youtu.be/FexolIE5qOk
-Nov 1 2021,AI/Machine Learning Panel,,,https://youtu.be/NE6Nf6vKe3U
-Nov 8 2021,Ying Zou,Unsteady Magnetopause Reconnection Under Quasi-Steady Solar Wind Driving,UAH,https://youtu.be/iRb1DctZpdU
-Nov 15 2021,Fredrick Wilder,The Kelvin-Helmholtz Instability at Earth: Reconnection,Turbulence and Ion Acoustic Waves,UTA,https://youtu.be/UMY7u31upDE
-Nov 22 2021,Minna Palmroth,Vlasiator: Global ion-kinetic modelling of the near-Earth space in 6D,U. Helsinki,x
-Nov 29 2021,Surja Sharma,Data-driven Modeling of the magnetosphere: The Complex Systems Perspective,UMD,https://youtu.be/mt8aF7YEvts
+Aug 16,Thomas Elsden,ULF Waves,U. Leicester,https://youtu.be/hp-VedV-6eU
+Aug 23,Hayley Allison,VLF Waves,GFZ,https://youtu.be/n9NF_uod7EY
+Aug 30Maria Usanova,EMIC Waves,LASP,https://youtu.be/n9NF_uod7EY
+Sept 13,Lauren Blum,Energetic Particle Precipitation,U. Colorado,https://youtu.be/f8WGTitJQxA
+Sept 20,Jean-Francois Ripoll,Earth’s Radiation Belt Dynamics: Observations and Simulations,CEA,https://youtu.be/f3lJ-6QIYK4
+Sept 2,Steve Milan,Solar Wind Magnetosphere Coupling,U. Leicester,https://youtu.be/oOQfrvutzK4
+Oct 4,Jasper Halekas,Plasma Physics at the Moon,U. Iowa,https://youtu.be/knbdCjL8ct8
+Oct 18,Jeffrey Love,The May 1921 magnetic superstorm,USGS,https://youtu.be/ut9BuqFSyzk
+Oct 25,Mathew Owens,Extreme Space Weather and the Solar Cycle,U. Reading,https://youtu.be/FexolIE5qOk
+Nov 1,AI/Machine Learning Panel,,,https://youtu.be/NE6Nf6vKe3U
+Nov 8,Ying Zou,Unsteady Magnetopause Reconnection Under Quasi-Steady Solar Wind Driving,UAH,https://youtu.be/iRb1DctZpdU
+Nov 15,Fredrick Wilder,The Kelvin-Helmholtz Instability at Earth: Reconnection,Turbulence and Ion Acoustic Waves,UTA,https://youtu.be/UMY7u31upDE
+Nov 22,Minna Palmroth,Vlasiator: Global ion-kinetic modelling of the near-Earth space in 6D,U. Helsinki,x
+Nov 29,Surja Sharma,Data-driven Modeling of the magnetosphere: The Complex Systems Perspective,UMD,https://youtu.be/mt8aF7YEvts
