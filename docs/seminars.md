@@ -1,5 +1,5 @@
 ---
-title: Past Speakers and Seminars
+title: Past Speakers
 layout: "page"
 icon: fa-user-astronaut
 order: 3
