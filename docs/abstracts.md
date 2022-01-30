@@ -1,11 +1,11 @@
 ---
 title: Early Career Abstracts
 layout: "page"
-icon: fa-calendar-alt
+icon: fas fa-file-alt
 order: 3
 ---
 
-Early Career Seminars are held the first monday of every month.
+<h2>Early Career Seminars are held the first monday of every month.</h2>
 
 <h3>Leon Olifer</h3>
 
