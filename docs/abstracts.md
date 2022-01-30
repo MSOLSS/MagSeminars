@@ -1,7 +1,7 @@
 ---
 title: Early Career Abstracts
 layout: "page"
-icon: fas fa-file-alt
+icon: fa-file-alt
 order: 3
 ---
 
