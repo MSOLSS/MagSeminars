@@ -14,7 +14,7 @@ We will be using [Juptyer Notebooks](https://jupyter.org/) and [Google Colab](ht
 
 The web is full of Python resources (which can be intimadating if your just starting out). Below we have compiled a set of usefull links to getting started with Python. 
 
-# Anaconda
+<h2>Anaconda</h2>
 
 [Anaconda](https://www.anaconda.com/) is an open-source distribution for python. It is widely used as a fascilitator for science as it provides access to Python via the [Anacond Navigator](https://www.anaconda.com/) and [Anacond Prompt](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#starting-conda).
 
@@ -25,7 +25,7 @@ The web is full of Python resources (which can be intimadating if your just star
 
 [Getting Started With Anaconda](https://docs.anaconda.com/anaconda/user-guide/getting-started/)
 
-# Tutorials and Books
+<h2>Tutorials and Books</h2> 
 
 [Problem Solving With Python](https://problemsolvingwithpython.com/)
 [Python in Heliophysics Community](https://heliopython.org/)
