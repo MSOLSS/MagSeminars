@@ -2,7 +2,7 @@
 title: Past Speakers
 layout: "page"
 icon: fa-user-astronaut
-order: 4
+order: 5
 ---
 
 Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>. 
