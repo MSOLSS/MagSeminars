@@ -57,13 +57,13 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-zoom_url:  https://youtu.be/IhSNMl3fNRE
+zoom_url:   https://lakeheadu.zoom.us/j/93945432167
 
 #YouTube
-youtube_stream: https://youtu.be/IhSNMl3fNRE
+youtube_stream: https://youtu.be/Nms_3hSUBhA
 
 #Next seminar, date, speaker, title
-seminar: There is no seminar February 21. Our next Seminar will be February 28.
+seminar: On February 28 Barbara Thompson will be give our first computation tutorial discussing Python Notebooks and Code Sharing
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
