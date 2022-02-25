@@ -1,5 +1,5 @@
 ---
-title: Tutorials
+title: MOSS Tutorials
 layout: "page"
 icon: fa-code
 order: 4
