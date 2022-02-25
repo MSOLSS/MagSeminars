@@ -1,7 +1,7 @@
 ---
 title: Tutorials
 layout: "page"
-icon: fa-laptop-code
+icon: fa-code
 order: 4
 ---
 
