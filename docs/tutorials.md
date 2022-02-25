@@ -16,7 +16,7 @@ The web is full of Python resources (which can be intimidating if you're just st
 
 <h2>Anaconda</h2>
 
-[Anaconda](https://www.anaconda.com/) is an open-source distribution for python. It is widely used as a fascilitator for science as it provides access to Python via the [Anaconda Navigator](https://www.anaconda.com/) and [Anaconda Prompt](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#starting-conda).
+[Anaconda](https://www.anaconda.com/) is an open-source distribution for python. It is widely used as a fascilitator for science as it provides access to Python, Python Packages, and several Python IDEs ([Jupyter](https://jupyter.org/), [VS Code](https://code.visualstudio.com/), [Spyder](https://www.spyder-ide.org/)) via the [Anaconda Navigator](https://www.anaconda.com/) and [Anaconda Prompt](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#starting-conda).
 
 - [Installing Anaconda](https://docs.anaconda.com/anaconda/install/)
 - [Installing Anaconda on Windows](https://medium.com/@GalarnykMichael/install-python-anaconda-on-windows-2020-f8e188f9a63d)
