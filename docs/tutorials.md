@@ -26,7 +26,7 @@ The web is full of Python resources (which can be intimidating if you're just st
 - [Installing Anaconda on Linux](https://problemsolvingwithpython.com/01-Orientation/01.05-Installing-Anaconda-on-Linux/)
 - [Getting Started With Anaconda](https://docs.anaconda.com/anaconda/user-guide/getting-started/)
 
-<h3>Tutorials and Books</h3> 
+<h3>Tutorials, Books, and Articles</h3> 
 
 - [Problem Solving With Python](https://problemsolvingwithpython.com/)
 - [Python in Heliophysics Community](https://heliopython.org/)
@@ -34,4 +34,7 @@ The web is full of Python resources (which can be intimidating if you're just st
 - [Michael Kirk’s tutorials (general + Sunpy)](https://github.com/MSKirk/tutorials)
 - [Goddard ASTG Python courses (available to Helio community)](https://github.com/astg606/py_courses)
 - [An Accelerated One-Day Beginner Python Class for Programmers](https://astg606.github.io/py_courses/one_day_beginner/)
+- [6 Best Python IDEs and Text Editors for Data Science Applications](https://medium.com/towards-data-science/6-best-python-ides-and-text-editors-for-data-science-applications-6986c4522e61)
+
+
 
