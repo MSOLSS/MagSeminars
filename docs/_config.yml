@@ -60,10 +60,10 @@ dribbble_url:
 zoom_url:   https://lakeheadu.zoom.us/j/93945432167
 
 #YouTube
-youtube_stream: https://youtu.be/Nms_3hSUBhA
+youtube_stream: https://youtu.be/j1tz5hzmbas
 
 #Next seminar, date, speaker, title
-seminar: On February 28 Barbara Thompson will be give our first computation tutorial discussing Python Notebooks and Code Sharing
+seminar: On March 7 we will have our second set of Early Career Presentations, Leng Ying Khoo will be talking about the challenges of measuring energetic particles in the inner belt - A Geant4 simulation of an energetic particle detector instrument, REPTile-2 and Nithin Sividas will be discussing the uncertainty in the solar wind propagation may explain polar cap potential saturation
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
