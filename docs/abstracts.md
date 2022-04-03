@@ -9,7 +9,7 @@ order: 3
 
 <h3>Ramiz Qudsi</h3>
 
-*Refining predictions of reconnection X-lines at Eath's Magnetopause*
+*Refining predictions of reconnection X-lines at Earth's Magnetopause*
 
 Magnetic reconnection is a fundamental plasma process of key importance to several fields. Reconnection at Earth’s magnetopause drives magnetospheric convection and provides mass and energy input into the magnetosphere/ionosphere system.
 Despite this importance, the factors governing the location of dayside magnetopause reconnection are not well understood.
