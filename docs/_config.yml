@@ -60,10 +60,10 @@ dribbble_url:
 zoom_url:   https://lakeheadu.zoom.us/j/93945432167
 
 #YouTube
-youtube_stream: https://youtu.be/YCklq-Hsiao
+youtube_stream: https://youtu.be/hYP7ZI3XSIs
 
 #Next seminar, date, speaker, title
-seminar: On April 4 we will have our next set Early Career Seminars given by Ramiz Qudis and Man Hua
+seminar: On April 11 we have our next Python tutorial focussing on Control Flow
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
