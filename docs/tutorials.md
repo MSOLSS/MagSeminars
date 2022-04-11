@@ -29,7 +29,9 @@ The web is full of Python resources (which can be intimidating if you're just st
 <h3>Tutorials, Books, and Articles</h3> 
 
 - [Problem Solving With Python](https://problemsolvingwithpython.com/)
+- [Scipy Lecture Notes](http://scipy-lectures.org/)
 - [Python in Heliophysics Community](https://heliopython.org/)
+- [Mathesaurus - a thesaurus of Mathematical Languages](http://mathesaurus.sourceforge.net/) including ```Python, R, IDL, Matlab```
 - [Machine Learning, Statistics, and Data Mining for Heliophysics](https://helioml.org/Introduction/title.html)
 - [Michael Kirk’s tutorials (general + Sunpy)](https://github.com/MSKirk/tutorials)
 - [Goddard ASTG Python courses (available to Helio community)](https://github.com/astg606/py_courses)
