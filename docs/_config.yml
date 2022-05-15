@@ -60,10 +60,10 @@ dribbble_url:
 zoom_url:   https://lakeheadu.zoom.us/j/93945432167
 
 #YouTube
-youtube_stream: https://youtu.be/63PJScGWE0k
+youtube_stream: https://youtu.be/M2vl8t2z2jI
 
 #Next seminar, date, speaker, title
-seminar: On May 9 John Coxon will be discussing the distribution of Birkeland currents in time and space
+seminar: On May 16 Eric Winter will give our next Python Tutorial on Numpy
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
