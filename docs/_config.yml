@@ -57,13 +57,14 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-zoom_url:   https://lakeheadu.zoom.us/j/93945432167
+#zoom_url:   https://lakeheadu.zoom.us/j/93945432167
+zoom_url:   https://youtu.be/okmzV1flNbY
 
 #YouTube
 youtube_stream: https://youtu.be/okmzV1flNbY
 
 #Next seminar, date, speaker, title
-seminar: On May 23 Subash Adhikari will be discussing A fundamental connection between reconnection and turbulence
+seminar: There is no seminar May 30
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
