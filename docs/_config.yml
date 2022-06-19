@@ -57,13 +57,13 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-zoom_url: https://lakeheadu.zoom.us/j/93945432167
-
+#zoom_url: https://lakeheadu.zoom.us/j/93945432167
+zoom_url: https://youtu.be/cv5gL5Bv4fI
 #YouTube
 youtube_stream: https://youtu.be/cv5gL5Bv4fI
 
 #Next seminar, date, speaker, title
-seminar: June 13, Julia Stawarz - Magnetic Reconnection and Magnetosheath Turbulence Advances from NASA's MMS mission
+seminar: No Seminar June 20, the next seminar will be June 27, Imogen Gingell will be discussing Magnetic Reconnection at Collisionless Shockwaves
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
