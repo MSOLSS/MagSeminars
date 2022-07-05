@@ -13,7 +13,7 @@ order: 3
 
 The total electron content (TEC) maps can be used to estimate the signal delay of GPS due to the ionospheric electron content between a receiver and satellite. This delay can result in GPS positioning error. Thus it is important to monitor the TEC maps. The observed TEC maps have big patches of missingness in the ocean and scattered small areas of missingness on the land. In this paper, we propose several extensions of existing matrix completion algorithms to achieve TEC map reconstruction, accounting for spatial smoothness and temporal consistency while preserving important structures of the TEC maps. We call the proposed method Video Imputation with SoftImpute, Temporal smoothing and Auxiliary data (VISTA). Numerical simulations that mimic patterns of real data are given. We show that our proposed method achieves better reconstructed TEC maps as compared to existing methods in literature. We apply the fine-tuned algorithm to generate a database covering a complete 16-year period from 2005 to 2020. The dataset features high resolution and low reconstruction error, as well as preserves the meso-scale structures. 
 
-<h3>Luisca Capannolo</h3>
+<h3>Luisa Capannolo</h3>
 
 *Distinguishing the Drivers and Understanding the Properties of Relativistic Electron Precipitation in the Nightside* 
 
