@@ -57,13 +57,14 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-#zoom_url: https://lakeheadu.zoom.us/j/93945432167
-zoom_url: https://msolss.github.io/MagSeminars/
+zoom_url: https://lakeheadu.zoom.us/j/93945432167
+#zoom_url: https://msolss.github.io/MagSeminars/
+
 #YouTube
-youtube_stream: https://youtu.be/lIJdEBwours
+youtube_stream: https://youtu.be/syUZaqSyTag
 
 #Next seminar, date, speaker, title
-seminar: There is no seminar July 4 or nextseminar will be a set of Early Career talks on July 11 by Hu Sun and Luisa Capannolo
+seminar: Our next seminar is a set of Early career seminars by Hu Sun and Luisa Capannolo on July 11
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
