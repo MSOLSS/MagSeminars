@@ -57,13 +57,14 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-zoom_url: https://lakeheadu.zoom.us/j/93945432167
+#zoom_url: https://lakeheadu.zoom.us/j/93945432167
+zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 #YouTube
-youtube_stream: https://youtu.be/N5P5tiE9YJw 
+youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 #Next seminar, date, speaker, title
-seminar: On August 8 Louis Ozeke will be discussing Electron Pitch Angle Distributions Observed During the Van Allen Probe Mission
+seminar: There is no seminar tomorrow, our next seminar is August 22. 
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
