@@ -57,14 +57,15 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-#zoom_url: https://lakeheadu.zoom.us/j/93945432167
-zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+zoom_url: https://lakeheadu.zoom.us/j/93945432167
+#zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 #YouTube
-youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+youtube_stream: https://youtu.be/7SCmO133-OM
 
 #Next seminar, date, speaker, title
-seminar: There is no seminar tomorrow, our next seminar is August 22. 
+seminar: On Aug 22 Josh Pettit will be discussing Modeling the impacts of energetic particle precipitation - The current state of the field
+
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
