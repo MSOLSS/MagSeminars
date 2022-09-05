@@ -57,14 +57,16 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-zoom_url: https://lakeheadu.zoom.us/j/93945432167
-#zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+#zoom_url: https://lakeheadu.zoom.us/j/93945432167
+zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 #YouTube
-youtube_stream: https://youtu.be/cZnOaJ5oJGQ
+#youtube_stream: https://youtu.be/cZnOaJ5oJGQ
+youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+
 
 #Next seminar, date, speaker, title
-seminar: Bob Marshall will give our next seminar on Aug 29, he will be discussing Energetic electron precipitation from the magnetosphere into the atmosphere  - How to measure the effects in the ignorosphere
+seminar: There is no seminar tomorrow. John Haiducek will be discussing Interfacing Python with Compile Languages on Sept 12. 
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
