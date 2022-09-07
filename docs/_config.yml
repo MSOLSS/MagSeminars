@@ -57,16 +57,16 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-#zoom_url: https://lakeheadu.zoom.us/j/93945432167
-zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+zoom_url: https://lakeheadu.zoom.us/j/93945432167
+#zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 #YouTube
-#youtube_stream: https://youtu.be/cZnOaJ5oJGQ
-youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+youtube_stream: https://youtu.be/HRN3AjBnIQY
+#youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 
 #Next seminar, date, speaker, title
-seminar: There is no seminar tomorrow. John Haiducek will be discussing Interfacing Python with Compile Languages on Sept 12. 
+seminar: Our next seminar is a set of Early Career Seminars by Sadie Elliot and Simone Di Matteo
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
