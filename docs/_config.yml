@@ -61,12 +61,12 @@ zoom_url: https://lakeheadu.zoom.us/j/93945432167
 #zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 #YouTube
-youtube_stream: https://youtu.be/OqRDvGlqUdo
-#youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+# youtube_stream: https://youtu.be/OqRDvGlqUdo
+youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 
 #Next seminar, date, speaker, title
-seminar: On October 17 Nicki Viall-Kepko will be discussing Mesoscale Solar Wind Structures - Their Creation and Magnetospheric Impact
+seminar: On October 24 Chris Chaston will be discussing Broadband Electromagnetic Turbulence and Radiation Belt Electrons, note there will be no YouTube stream
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-164929238-1
