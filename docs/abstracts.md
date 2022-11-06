@@ -15,4 +15,6 @@ Outer radiation belt electron flux is controlled by a variety of physical proces
 
 <h3>Qusai Al Shidi</h3>
 
+*Simulated Predictions From Solar Wind to Ground Magnetometers* 
+
 We use the Space Weather Modeling Framework (SWMF) Geospace configuration to simulate hundreds of storms from the period 2010-2019. With the focus on the storm main phase, each storm period was run for 54 hours starting from 6 hours prior to the start of the Dst depression. The simulation output of ground magnetic variations were compared with ground magnetometer station data provided by SuperMAG to statistically assess the Geospace model regional prediction performance.
