@@ -61,12 +61,12 @@ dribbble_url:
 zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 #YouTube
-youtube_stream: https://youtu.be/LaXuL6XnWLg
-#youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+#youtube_stream: https://youtu.be/LaXuL6XnWLg
+youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 
 #Next seminar, date, speaker, title
-seminar: On November 21 Jule Barnum will be discussing The Python in Heliophysics Community (PyHC) - an overview and recent activities within
+seminar: We are on winter break. New seminars will start in the New Year.
 
 
 # Google Analytics Tracking ID goes here:
