@@ -57,16 +57,16 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-zoom_url: https://lakeheadu.zoom.us/j/98060611997
-#zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+#zoom_url: https://lakeheadu.zoom.us/j/98060611997
+zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 #YouTube
-youtube_stream: https://youtube.com/live/td_bLUP4NDk
-#youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+#youtube_stream: https://youtube.com/live/td_bLUP4NDk
+youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 
 #Next seminar, date, speaker, title
-seminar: On Monday March 20, Bea Gallardo-Lacourt and Mike Shumko will be discussing "Mesoscale drivers of the nightside transition region" and "On the Connection Between Radiation Belt Precipitation and Pulsating Aurora"
+seminar: There is no seminar April 3 and 10. Our next seminar is April 17.
 
 
 # Google Analytics Tracking ID goes here:
