@@ -57,16 +57,16 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-#zoom_url: https://lakeheadu.zoom.us/j/98060611997
-zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+zoom_url: https://lakeheadu.zoom.us/j/98060611997
+#zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 #YouTube
-#youtube_stream: https://youtube.com/live/td_bLUP4NDk
-youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+youtube_stream: https://youtube.com/live/7oa6Zmlh3wI?feature=share
+#youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 
 #Next seminar, date, speaker, title
-seminar: There is no seminar April 3 and 10. Our next seminar is April 17.
+seminar: Our next seminar is April 17. Doga Ozturk will discuss Magnetospheric Sources of Particle Precipitation and Their Role on Electrodynamic Coupling and Xueling Shi will discuss Understanding the causes of geomagnetic disturbances in geospace
 
 
 # Google Analytics Tracking ID goes here:
