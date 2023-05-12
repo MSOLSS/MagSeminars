@@ -57,16 +57,16 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-zoom_url: https://lakeheadu.zoom.us/j/98060611997
-#zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+#zoom_url: https://lakeheadu.zoom.us/j/98060611997
+zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 #YouTube
-youtube_stream: https://youtube.com/live/OUJ3qycjHqw?feature=share
-#youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+#youtube_stream: https://youtube.com/live/OUJ3qycjHqw?feature=share
+youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 
 #Next seminar, date, speaker, title
-seminar: Our next seminar is May 1 24. Hong Zhao and Ben Hogan will be discussing System Understanding of Radiation Belt Particle Dynamics through Multi-spacecraft and Ground-based Observations and Modeling and Localized dynamics of Multi-MeV electrons deep inside the outer radiation belt - Observations  and physical mechanisms
+seminar: We are on a short break, our next seminar is June 12.
 
 
 # Google Analytics Tracking ID goes here:
