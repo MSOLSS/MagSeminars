@@ -61,12 +61,12 @@ zoom_url: https://lakeheadu.zoom.us/j/98060611997
 #zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 #YouTube
-youtube_stream: https://youtube.com/live/19e_w1IDgj8?feature=share
+youtube_stream: https://www.youtube.com/live/_OC5NvlHWPw?feature=share
 #youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 
 #Next seminar, date, speaker, title
-seminar: Our next seminar is Monday June 19 at noon eastern. Shannon Killey and Jürgen Matzka will discuss "Diagnosing relativistic electron distributions in the Van Allen radiation belts using machine learning" and "Kp and the new hourly and half-hourly Kp-like geomagnetic Hpo indices".  
+seminar: Our next seminar is Monday June 26 at noon eastern. eremiah Johnson will discuss AuroraClick - Citizen Science and the Development of a Massive Machine Learning-Ready Auroral Image Database
 
 
 # Google Analytics Tracking ID goes here:
