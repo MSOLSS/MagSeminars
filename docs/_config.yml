@@ -57,16 +57,16 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-zoom_url: https://lakeheadu.zoom.us/j/98060611997
-#zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+#zoom_url: https://lakeheadu.zoom.us/j/98060611997
+zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 #YouTube
-youtube_stream: https://www.youtube.com/live/_OC5NvlHWPw?feature=share
-#youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+#youtube_stream: https://www.youtube.com/live/_OC5NvlHWPw?feature=share
+youtube_stream: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 
 #Next seminar, date, speaker, title
-seminar: Our next seminar is Monday June 26 at noon eastern. eremiah Johnson will discuss AuroraClick - Citizen Science and the Development of a Massive Machine Learning-Ready Auroral Image Database
+seminar: There is no seminar tomorrow July 3
 
 
 # Google Analytics Tracking ID goes here:
