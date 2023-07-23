@@ -62,11 +62,10 @@ zoom_url: https://lakeheadu.zoom.us/j/98060611997
 
 #YouTube
 #youtube_stream: https://www.youtube.com/live/_OC5NvlHWPw?feature=share
-youtube_stream: https://www.youtube.com/live/k3f0mrHxsbs?feature=share
-
+youtube_stream: https://youtube.com/live/Ri7vnckvIPs?feature=share
 
 #Next seminar, date, speaker, title
-seminar: Our Next Seminar is July 17, Michael Coughlan will discuss Ground Magnetic Perturbation Predictions Using Machine Learning and Interpretability Methods
+seminar: Our Next Seminar is July 24, Matthew Finley will discuss Local Interference Mitigation on Spaceflight Magnetometer Platforms
 
 
 # Google Analytics Tracking ID goes here:
