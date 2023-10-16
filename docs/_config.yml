@@ -57,16 +57,16 @@ slack_url:
 dribbble_url:
 
 #Zoom Meeting URL
-zoom_url: https://lakeheadu.zoom.us/j/98060611997
-#zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
+#zoom_url: https://lakeheadu.zoom.us/j/98060611997
+zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 #YouTube
 #youtube_stream: https://www.youtube.com/live/_OC5NvlHWPw?feature=share
-youtube_stream: https://www.youtube.com/live/k3f0mrHxsbs?feature=share
+youtube_stream: https://youtube.com/live/2Safc2YfXCI?feature=share
 
 
 #Next seminar, date, speaker, title
-seminar: Our Next Seminar is July 17, Michael Coughlan will discuss Ground Magnetic Perturbation Predictions Using Machine Learning and Interpretability Methods
+seminar: Our Next Seminar is October 16, Michael Coughlan will discuss Cross-Scale Modeling of Storm-Time Radiation Belt Variability
 
 
 # Google Analytics Tracking ID goes here:
