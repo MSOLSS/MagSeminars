@@ -61,11 +61,10 @@ zoom_url: https://lakeheadu.zoom.us/j/98060611997
 #zoom_url: https://www.youtube.com/playlist?list=PLuyip_LXDBd9EYbqfqkj2QO0q5ZaU7y9G
 
 #YouTube
-#youtube_stream: https://www.youtube.com/live/_OC5NvlHWPw?feature=share
-youtube_stream: hhttps://youtube.com/live/lfeWtceWf9g?feature=share
+youtube_stream: https://youtube.com/live/KWM9X-htzOY?feature=share
 
 #Next seminar, date, speaker, title
-seminar: Our Next Seminar is April 25, Daniel Baker will discuss Solar Terrestrial Data Science, Prior Experience and Future Prospects
+seminar: Our Next Seminar is April 29, Dan Billett will discuss Exploring the thermospheric response to high-latitude magnetosphere-ionosphere driving
 
 
 # Google Analytics Tracking ID goes here:
